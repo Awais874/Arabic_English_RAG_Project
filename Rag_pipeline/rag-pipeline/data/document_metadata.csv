@@ -1,0 +1,51 @@
+doc_id,title,title_ar,language,document_type,department,source,creation_date,access_date,processing_status,file_path
+EN-POL-01,IT Acceptable Use Policy,,en,policy,Information Technology,synthetic,2026-02-15,2026-09-13,raw,raw/english/policy/EN-POL-01_IT_Acceptable_Use_Policy.md
+EN-POL-02,Employee Leave and Attendance Policy,,en,policy,Human Resources,synthetic,2025-12-05,2026-09-13,raw,raw/english/policy/EN-POL-02_Leave_Attendance_Policy.md
+EN-POL-03,Code of Conduct and Business Ethics Policy,,en,policy,Legal and Compliance,synthetic,2025-12-10,2026-09-13,raw,raw/english/policy/EN-POL-03_Code_of_Conduct_Policy.md
+EN-POL-04,Data Protection and Privacy Policy,,en,policy,Legal and Compliance,synthetic,2026-05-15,2026-09-13,raw,raw/english/policy/EN-POL-04_Data_Protection_Policy.md
+EN-POL-05,Anti-Bribery and Corruption Policy,,en,policy,Legal and Compliance,synthetic,2025-02-20,2026-09-13,raw,raw/english/policy/EN-POL-05_Anti_Bribery_Policy.md
+EN-POL-06,Remote Working Policy,,en,policy,Human Resources,synthetic,2025-08-15,2026-09-13,raw,raw/english/policy/EN-POL-06_Remote_Working_Policy.md
+EN-POL-07,Expense Reimbursement Policy,,en,policy,Finance,synthetic,2026-03-20,2026-09-13,raw,raw/english/policy/EN-POL-07_Expense_Reimbursement_Policy.md
+EN-MAN-01,Workplace Health and Safety Manual,,en,manual,Health Safety and Environment,synthetic,2026-03-20,2026-09-13,raw,raw/english/manual/EN-MAN-01_Workplace_Safety_Manual.md
+EN-MAN-02,New Employee Onboarding Handbook,,en,manual,Human Resources,synthetic,2026-02-01,2026-09-13,raw,raw/english/manual/EN-MAN-02_Onboarding_Handbook.md
+EN-MAN-03,Forklift Operator Training Manual,,en,manual,Health Safety and Environment,synthetic,2026-04-15,2026-09-13,raw,raw/english/manual/EN-MAN-03_Forklift_Training_Manual.md
+EN-MAN-04,Customer Complaint Handling Manual,,en,manual,Customer Service,synthetic,2026-01-10,2026-09-13,raw,raw/english/manual/EN-MAN-04_Complaint_Handling_Manual.md
+EN-MAN-05,Warehouse Inventory Management Manual,,en,manual,Supply Chain and Logistics,synthetic,2026-02-20,2026-09-13,raw,raw/english/manual/EN-MAN-05_Inventory_Management_Manual.md
+EN-MAN-06,IT Helpdesk Standard Operating Procedures Manual,,en,manual,Information Technology,synthetic,2026-05-20,2026-09-13,raw,raw/english/manual/EN-MAN-06_IT_Helpdesk_SOP_Manual.md
+EN-MAN-07,Fire Warden Procedures Manual,,en,manual,Health Safety and Environment,synthetic,2026-03-15,2026-09-13,raw,raw/english/manual/EN-MAN-07_Fire_Warden_Manual.md
+EN-REP-01,Quarterly Operations Report Q2 2026,,en,report,Facilities Management,synthetic,2026-07-10,2026-09-13,raw,raw/english/report/EN-REP-01_Quarterly_Operations_Report.md
+EN-REP-02,Annual Sustainability Report Summary 2025,,en,report,Corporate Sustainability,synthetic,2026-02-28,2026-09-13,raw,raw/english/report/EN-REP-02_Sustainability_Report_Summary.md
+EN-REP-03,IT Security Incident Report,,en,report,Information Technology,synthetic,2026-06-22,2026-09-13,raw,raw/english/report/EN-REP-03_IT_Security_Incident_Report.md
+EN-REP-04,Employee Engagement Survey Report 2026,,en,report,Human Resources,synthetic,2026-06-30,2026-09-13,raw,raw/english/report/EN-REP-04_Employee_Engagement_Survey_Report.md
+EN-REP-05,Supply Chain Risk Assessment Report Q2 2026,,en,report,Supply Chain and Logistics,synthetic,2026-07-12,2026-09-13,raw,raw/english/report/EN-REP-05_Supply_Chain_Risk_Report.md
+EN-REP-06,Health and Safety Annual Report 2025,,en,report,Health Safety and Environment,synthetic,2026-02-15,2026-09-13,raw,raw/english/report/EN-REP-06_Health_Safety_Annual_Report.md
+EN-CON-01,Vendor Service Agreement - Office Cleaning Services,,en,contract,Procurement,synthetic,2026-05-01,2026-09-13,raw,raw/english/contract/EN-CON-01_Vendor_Service_Agreement.md
+EN-CON-02,Non-Disclosure Agreement,,en,contract,Legal and Compliance,synthetic,2026-06-03,2026-09-13,raw,raw/english/contract/EN-CON-02_Non_Disclosure_Agreement.md
+EN-CON-03,Warehouse Lease Agreement,,en,contract,Facilities Management,synthetic,2026-08-01,2026-09-13,raw,raw/english/contract/EN-CON-03_Warehouse_Lease_Agreement.md
+EN-CON-04,IT Software Licensing Agreement,,en,contract,Information Technology,synthetic,2026-09-01,2026-09-13,raw,raw/english/contract/EN-CON-04_Software_Licensing_Agreement.md
+EN-CON-05,Freight and Logistics Services Contract,,en,contract,Supply Chain and Logistics,synthetic,2026-07-01,2026-09-13,raw,raw/english/contract/EN-CON-05_Freight_Logistics_Contract.md
+AR-POL-01,IT Usage Policy,سياسة استخدام تقنية المعلومات,ar,policy,Information Technology,synthetic,2026-02-15,2026-09-13,raw,raw/arabic/policy/AR-POL-01_IT_Usage_Policy.md
+AR-POL-02,Leave and Attendance Policy,سياسة الإجازات والحضور,ar,policy,Human Resources,synthetic,2025-12-05,2026-09-13,raw,raw/arabic/policy/AR-POL-02_Leave_Attendance_Policy.md
+AR-POL-03,Code of Conduct and Business Ethics Policy,سياسة قواعد السلوك وأخلاقيات العمل,ar,policy,Legal and Compliance,synthetic,2025-12-10,2026-09-13,raw,raw/arabic/policy/AR-POL-03_Code_of_Conduct_Policy.md
+AR-POL-04,Data Protection and Privacy Policy,سياسة حماية البيانات والخصوصية,ar,policy,Legal and Compliance,synthetic,2026-05-15,2026-09-13,raw,raw/arabic/policy/AR-POL-04_Data_Protection_Policy.md
+AR-POL-05,Anti-Bribery and Corruption Policy,سياسة مكافحة الرشوة والفساد,ar,policy,Legal and Compliance,synthetic,2025-02-20,2026-09-13,raw,raw/arabic/policy/AR-POL-05_Anti_Bribery_Policy.md
+AR-POL-06,Remote Working Policy,سياسة العمل عن بعد,ar,policy,Human Resources,synthetic,2025-08-15,2026-09-13,raw,raw/arabic/policy/AR-POL-06_Remote_Working_Policy.md
+AR-POL-07,Expense Reimbursement Policy,سياسة استرداد النفقات,ar,policy,Finance,synthetic,2026-03-20,2026-09-13,raw,raw/arabic/policy/AR-POL-07_Expense_Reimbursement_Policy.md
+AR-MAN-01,Occupational Safety Manual,دليل السلامة والصحة المهنية,ar,manual,Health Safety and Environment,synthetic,2026-03-20,2026-09-13,raw,raw/arabic/manual/AR-MAN-01_Occupational_Safety_Manual.md
+AR-MAN-02,New Employee Onboarding Guide,دليل تهيئة الموظف الجديد,ar,manual,Human Resources,synthetic,2026-02-01,2026-09-13,raw,raw/arabic/manual/AR-MAN-02_Onboarding_Guide.md
+AR-MAN-03,Forklift Operator Training Manual,دليل تدريب مشغلي الرافعات الشوكية,ar,manual,Health Safety and Environment,synthetic,2026-04-15,2026-09-13,raw,raw/arabic/manual/AR-MAN-03_Forklift_Training_Manual.md
+AR-MAN-04,Customer Complaint Handling Manual,دليل التعامل مع شكاوى العملاء,ar,manual,Customer Service,synthetic,2026-01-10,2026-09-13,raw,raw/arabic/manual/AR-MAN-04_Complaint_Handling_Manual.md
+AR-MAN-05,Warehouse Inventory Management Manual,دليل إدارة مخزون المستودعات,ar,manual,Supply Chain and Logistics,synthetic,2026-02-20,2026-09-13,raw,raw/arabic/manual/AR-MAN-05_Inventory_Management_Manual.md
+AR-MAN-06,IT Helpdesk Standard Operating Procedures Manual,دليل إجراءات التشغيل القياسية لمكتب الدعم,ar,manual,Information Technology,synthetic,2026-05-20,2026-09-13,raw,raw/arabic/manual/AR-MAN-06_IT_Helpdesk_SOP_Manual.md
+AR-MAN-07,Fire Warden Procedures Manual,دليل إجراءات مراقبي الحرائق,ar,manual,Health Safety and Environment,synthetic,2026-03-15,2026-09-13,raw,raw/arabic/manual/AR-MAN-07_Fire_Warden_Manual.md
+AR-REP-01,Quarterly Operations Report Q2 2026,التقرير الربعي لعمليات إدارة المرافق,ar,report,Facilities Management,synthetic,2026-07-10,2026-09-13,raw,raw/arabic/report/AR-REP-01_Quarterly_Operations_Report.md
+AR-REP-02,Annual Sustainability Report Summary 2025,ملخص تقرير الاستدامة السنوي,ar,report,Corporate Sustainability,synthetic,2026-02-28,2026-09-13,raw,raw/arabic/report/AR-REP-02_Sustainability_Report_Summary.md
+AR-REP-03,IT Security Incident Report,تقرير حادثة أمن تقنية المعلومات,ar,report,Information Technology,synthetic,2026-06-22,2026-09-13,raw,raw/arabic/report/AR-REP-03_IT_Security_Incident_Report.md
+AR-REP-04,Employee Engagement Survey Report 2026,تقرير استطلاع مشاركة الموظفين,ar,report,Human Resources,synthetic,2026-06-30,2026-09-13,raw,raw/arabic/report/AR-REP-04_Employee_Engagement_Survey_Report.md
+AR-REP-05,Supply Chain Risk Assessment Report Q2 2026,تقرير تقييم مخاطر سلسلة التوريد,ar,report,Supply Chain and Logistics,synthetic,2026-07-12,2026-09-13,raw,raw/arabic/report/AR-REP-05_Supply_Chain_Risk_Report.md
+AR-REP-06,Health and Safety Annual Report 2025,التقرير السنوي للصحة والسلامة,ar,report,Health Safety and Environment,synthetic,2026-02-15,2026-09-13,raw,raw/arabic/report/AR-REP-06_Health_Safety_Annual_Report.md
+AR-CON-01,Cleaning Services Contract,عقد خدمات النظافة للمكاتب,ar,contract,Procurement,synthetic,2026-05-01,2026-09-13,raw,raw/arabic/contract/AR-CON-01_Cleaning_Services_Contract.md
+AR-CON-02,Non-Disclosure Agreement,اتفاقية عدم الإفصاح,ar,contract,Legal and Compliance,synthetic,2026-06-03,2026-09-13,raw,raw/arabic/contract/AR-CON-02_Non_Disclosure_Agreement.md
+AR-CON-03,Warehouse Lease Agreement,عقد إيجار مستودع,ar,contract,Facilities Management,synthetic,2026-08-01,2026-09-13,raw,raw/arabic/contract/AR-CON-03_Warehouse_Lease_Agreement.md
+AR-CON-04,IT Software Licensing Agreement,اتفاقية ترخيص برمجيات تقنية المعلومات,ar,contract,Information Technology,synthetic,2026-09-01,2026-09-13,raw,raw/arabic/contract/AR-CON-04_Software_Licensing_Agreement.md
+AR-CON-05,Freight and Logistics Services Contract,عقد خدمات الشحن والخدمات اللوجستية,ar,contract,Supply Chain and Logistics,synthetic,2026-07-01,2026-09-13,raw,raw/arabic/contract/AR-CON-05_Freight_Logistics_Contract.md

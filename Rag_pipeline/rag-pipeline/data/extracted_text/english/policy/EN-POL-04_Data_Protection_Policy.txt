@@ -1,0 +1,48 @@
+Data Protection and Privacy Policy
+Document ID: EN-POL-04 Department: Legal and Compliance Version: 2.7
+Effective Date: 1 June 2026
+1. Purpose
+This policy sets out how Meridian Holdings Group collects, processes, stores, and
+protects personal data belonging to employees, customers, and other individuals, in
+compliance with applicable data protection law, including the General Data
+Protection Regulation (GDPR).
+2. Scope
+This policy applies to all personal data processed by the Company, in any format,
+and to all employees, contractors, and third parties who process personal data on
+the Company's behalf.
+3. Data Protection Principles
+3.1 Personal data must be processed lawfully, fairly, and transparently, and
+collected only for specified, explicit, and legitimate purposes.
+3.2 The Company will collect only the minimum personal data necessary for the
+stated purpose (data minimisation) and will retain it only as long as necessary, in
+accordance with the Data Retention Schedule.
+3.3 Personal data must be kept accurate and up to date, and must be protected
+against unauthorised access, loss, or destruction through appropriate technical and
+organisational measures.
+4. Data Subject Rights
+4.1 Individuals have the right to access, correct, or request erasure of their
+personal data, and to object to certain types of processing. Requests should be
+directed to the Data Protection Officer at dpo@meridianholdings.example.
+4.2 The Company will respond to valid data subject requests within one calendar
+month, in accordance with statutory timeframes.
+1
+
+5. Data Breaches
+5.1 Any suspected personal data breach must be reported immediately to the Data
+Protection Officer. Breaches that pose a risk to individuals' rights and freedoms will
+be reported to the relevant supervisory authority within 72 hours of discovery, as
+required by law.
+6. Third-Party Data Processors
+6.1 Where the Company engages third parties to process personal data on its
+behalf, a Data Processing Agreement must be in place, setting out the processor's
+obligations regarding security, confidentiality, and sub-processing.
+7. Training
+7.1 All employees must complete mandatory Data Protection training annually, in
+addition to the training completed during onboarding.
+8. Related Documents
+• IT Acceptable Use Policy (EN-POL-01)
+• Data Retention Schedule (LEGAL-POL-05)
+9. Approval
+Approved by the Data Protection Officer and Chief Legal Officer on 15 May 2026,
+superseding version 2.6 dated 1 June 2025.
+2

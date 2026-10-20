@@ -1,0 +1,411 @@
+﻿question_id,condition,query_language,target_language,document_type,question,expected_answer,relevant_doc_id,relevant_chunk_ids,retrieved_chunk_ids,retrieved_doc_ids,relevant_chunk_retrieved,relevant_doc_retrieved,first_relevant_chunk_rank,generated_answer,expected_doc_cited
+Q001,EN→EN,en,en,contract,What is the term of the office cleaning services contract?,24 months,EN-CON-01,EN-CON-01_chunk00,EN-CON-01_chunk00;EN-CON-01_chunk02;EN-CON-01_chunk03;EN-CON-01_chunk01;EN-POL-06_chunk01,EN-CON-01;EN-CON-01;EN-CON-01;EN-CON-01;EN-POL-06,1,1,1.0,"The office cleaning services contract has a term of **24 months**, commencing on **1 May 2026**, unless terminated earlier under the agreement.
+
+### Sources
+- EN-CON-01",1
+Q002,AR→AR,ar,ar,contract,ما مدة عقد خدمات النظافة للمكاتب؟,24 شهرًا,AR-CON-01,AR-CON-01_chunk00,AR-CON-01_chunk00;AR-CON-01_chunk02;AR-CON-03_chunk00;AR-CON-01_chunk01;AR-CON-03_chunk01,AR-CON-01;AR-CON-01;AR-CON-03;AR-CON-01;AR-CON-03,1,1,1.0,"مدة عقد خدمات النظافة للمكاتب هي **24 شهرًا**.  
+
+### المصادر
+- AR-CON-01",1
+Q003,EN→AR,en,ar,contract,What is the term of the office cleaning services contract?,24 شهرًا,AR-CON-01,AR-CON-01_chunk00,AR-CON-01_chunk00;AR-CON-01_chunk02;AR-CON-01_chunk01;AR-POL-06_chunk01;AR-CON-03_chunk00,AR-CON-01;AR-CON-01;AR-CON-01;AR-POL-06;AR-CON-03,1,1,1.0,"The office cleaning services contract has a term of **24 months**.
+
+### Sources
+- AR-CON-01",1
+Q004,AR→EN,ar,en,contract,ما مدة عقد خدمات النظافة للمكاتب؟,24 months,EN-CON-01,EN-CON-01_chunk00,EN-CON-01_chunk00;EN-CON-01_chunk02;EN-CON-01_chunk03;EN-CON-04_chunk02;EN-CON-01_chunk01,EN-CON-01;EN-CON-01;EN-CON-01;EN-CON-04;EN-CON-01,1,1,1.0,"مدة عقد خدمات النظافة للمكاتب هي **24 شهرًا** من تاريخ سريانه في **1 مايو 2026**. ويمكن إنهاؤه مبكرًا وفقًا لشروط العقد.
+
+### المصادر
+- EN-CON-01",1
+Q005,EN→EN,en,en,contract,How long does the Non-Disclosure Agreement remain in effect?,3 years,EN-CON-02,EN-CON-02_chunk01,EN-CON-02_chunk00;EN-CON-02_chunk01;EN-CON-02_chunk02;EN-CON-05_chunk02;EN-CON-04_chunk03,EN-CON-02;EN-CON-02;EN-CON-02;EN-CON-05;EN-CON-04,1,1,2.0,"The Non-Disclosure Agreement remains in effect for **three years from the Effective Date**. The confidentiality obligations continue for an additional **two years after termination**.
+
+### Sources
+- EN-CON-02",1
+Q006,AR→AR,ar,ar,contract,كم مدة سريان اتفاقية عدم الإفصاح؟,3 سنوات,AR-CON-02,AR-CON-02_chunk01,AR-CON-02_chunk00;AR-CON-02_chunk01;AR-CON-04_chunk02;AR-CON-02_chunk02;AR-CON-04_chunk01,AR-CON-02;AR-CON-02;AR-CON-04;AR-CON-02;AR-CON-04,1,1,2.0,"تظل اتفاقية عدم الإفصاح سارية لمدة **ثلاث سنوات من تاريخ السريان**، وتستمر التزامات السرية لمدة **سنتين إضافيتين بعد إنهائها**.
+
+### المصادر
+- AR-CON-02",1
+Q007,EN→AR,en,ar,contract,How long does the Non-Disclosure Agreement remain in effect?,3 سنوات,AR-CON-02,AR-CON-02_chunk01,AR-CON-02_chunk01;AR-CON-02_chunk00;AR-CON-04_chunk02;AR-CON-02_chunk02;AR-CON-05_chunk02,AR-CON-02;AR-CON-02;AR-CON-04;AR-CON-02;AR-CON-05,1,1,1.0,"The Non-Disclosure Agreement remains in effect for **three years from the effective date**. The confidentiality obligations continue for **an additional two years after termination**.
+
+### Sources
+- AR-CON-02",1
+Q008,AR→EN,ar,en,contract,كم مدة سريان اتفاقية عدم الإفصاح؟,3 years,EN-CON-02,EN-CON-02_chunk01,EN-CON-04_chunk03;EN-CON-02_chunk01;EN-CON-04_chunk02;EN-REP-03_chunk02;EN-CON-02_chunk00,EN-CON-04;EN-CON-02;EN-CON-04;EN-REP-03;EN-CON-02,1,1,2.0,"تظل اتفاقية عدم الإفصاح سارية لمدة **ثلاث سنوات من تاريخ السريان**، وتستمر التزامات السرية لمدة **سنتين إضافيتين بعد انتهاء الاتفاقية**.
+
+### المصادر
+- EN-CON-02",1
+Q009,EN→EN,en,en,contract,What is the term of the warehouse lease?,10 years,EN-CON-03,EN-CON-03_chunk00,EN-CON-03_chunk00;EN-CON-04_chunk00;EN-CON-03_chunk01;EN-REP-04_chunk02;EN-MAN-05_chunk00,EN-CON-03;EN-CON-04;EN-CON-03;EN-REP-04;EN-MAN-05,1,1,1.0,"The warehouse lease term is **10 years**.
+
+### Sources
+- EN-CON-03",1
+Q010,AR→AR,ar,ar,contract,ما مدة عقد إيجار المستودع؟,10 سنوات,AR-CON-03,AR-CON-03_chunk00,AR-CON-03_chunk00;AR-CON-03_chunk02;AR-CON-03_chunk01;AR-CON-02_chunk01;AR-CON-01_chunk01,AR-CON-03;AR-CON-03;AR-CON-03;AR-CON-02;AR-CON-01,1,1,1.0,"مدة عقد إيجار المستودع هي **10 سنوات** من تاريخ بدء الإيجار في **1 أغسطس 2026**.
+
+### المصادر
+- AR-CON-03",1
+Q011,EN→AR,en,ar,contract,What is the term of the warehouse lease?,10 سنوات,AR-CON-03,AR-CON-03_chunk00,AR-CON-03_chunk00;AR-CON-05_chunk00;AR-CON-01_chunk00;AR-POL-06_chunk00;AR-MAN-05_chunk00,AR-CON-03;AR-CON-05;AR-CON-01;AR-POL-06;AR-MAN-05,1,1,1.0,"The warehouse lease term is **10 years**, starting on **1 August 2026**.
+
+### Sources
+- AR-CON-03",1
+Q012,AR→EN,ar,en,contract,ما مدة عقد إيجار المستودع؟,10 years,EN-CON-03,EN-CON-03_chunk00,EN-CON-03_chunk02;EN-CON-03_chunk00;EN-CON-04_chunk02;EN-CON-01_chunk01;EN-CON-03_chunk01,EN-CON-03;EN-CON-03;EN-CON-04;EN-CON-01;EN-CON-03,1,1,2.0,"مدة عقد إيجار المستودع هي **عشر سنوات**، تبدأ من **1 أغسطس 2026**.
+
+### المصادر
+- EN-CON-03",1
+Q013,EN→EN,en,en,contract,What is the maximum number of named users permitted under the software licence?,450 named users,EN-CON-04,EN-CON-04_chunk00,EN-CON-04_chunk00;EN-CON-04_chunk01;EN-CON-04_chunk02;EN-POL-01_chunk02;EN-CON-04_chunk03,EN-CON-04;EN-CON-04;EN-CON-04;EN-POL-01;EN-CON-04,1,1,1.0,"The maximum number of named users permitted under the software licence is **450**.
+
+### Sources
+- EN-CON-04",1
+Q014,AR→AR,ar,ar,contract,ما الحد الأقصى لعدد المستخدمين المسموح بهم بموجب ترخيص البرنامج؟,450 مستخدمًا مسمى,AR-CON-04,AR-CON-04_chunk00,AR-CON-04_chunk00;AR-CON-04_chunk01;AR-POL-01_chunk00;AR-MAN-06_chunk02;AR-MAN-02_chunk01,AR-CON-04;AR-CON-04;AR-POL-01;AR-MAN-06;AR-MAN-02,1,1,1.0,"الحد الأقصى هو **450 مستخدمًا مسمى**.
+
+### المصادر
+- AR-CON-04",1
+Q015,EN→AR,en,ar,contract,What is the maximum number of named users permitted under the software licence?,450 مستخدمًا مسمى,AR-CON-04,AR-CON-04_chunk00,AR-CON-04_chunk00;AR-POL-01_chunk00;AR-CON-04_chunk01;AR-MAN-06_chunk02;AR-CON-04_chunk02,AR-CON-04;AR-POL-01;AR-CON-04;AR-MAN-06;AR-CON-04,1,1,1.0,"The software licence permits a maximum of **450 named users**.
+
+### Sources
+- AR-CON-04",1
+Q016,AR→EN,ar,en,contract,ما الحد الأقصى لعدد المستخدمين المسموح بهم بموجب ترخيص البرنامج؟,450 named users,EN-CON-04,EN-CON-04_chunk00,EN-CON-04_chunk02;EN-CON-04_chunk00;EN-CON-04_chunk01;EN-POL-01_chunk00;EN-POL-04_chunk02,EN-CON-04;EN-CON-04;EN-CON-04;EN-POL-01;EN-POL-04,1,1,2.0,"الحد الأقصى المسموح به هو **450 مستخدمًا مُسمّى** بموجب الترخيص الأساسي.
+
+### المصادر
+- EN-CON-04",1
+Q017,EN→EN,en,en,contract,What is the maximum time goods may be warehoused in transit under the freight contract?,72 hours,EN-CON-05,EN-CON-05_chunk00,EN-CON-05_chunk00;EN-MAN-05_chunk00;EN-CON-05_chunk02;EN-CON-03_chunk00;EN-MAN-05_chunk02,EN-CON-05;EN-MAN-05;EN-CON-05;EN-CON-03;EN-MAN-05,1,1,1.0,"Goods may be warehoused in transit for a maximum of **72 hours** under the freight contract.
+
+### Sources
+- EN-CON-05",1
+Q018,AR→AR,ar,ar,contract,ما أقصى مدة يمكن تخزين البضائع خلالها أثناء النقل بموجب عقد الشحن؟,72 ساعة,AR-CON-05,AR-CON-05_chunk00,AR-CON-05_chunk00;AR-CON-05_chunk01;AR-CON-05_chunk02;AR-MAN-05_chunk02;AR-MAN-05_chunk00,AR-CON-05;AR-CON-05;AR-CON-05;AR-MAN-05;AR-MAN-05,1,1,1.0,"أقصى مدة لتخزين البضائع أثناء النقل هي **72 ساعة**.
+
+### المصادر
+- AR-CON-05",1
+Q019,EN→AR,en,ar,contract,What is the maximum time goods may be warehoused in transit under the freight contract?,72 ساعة,AR-CON-05,AR-CON-05_chunk00,AR-CON-05_chunk00;AR-CON-05_chunk01;AR-CON-05_chunk02;AR-MAN-05_chunk02;AR-CON-01_chunk01,AR-CON-05;AR-CON-05;AR-CON-05;AR-MAN-05;AR-CON-01,1,1,1.0,"Goods may be warehoused in transit for a maximum of **72 hours** under the freight contract.
+
+### Sources
+- AR-CON-05",1
+Q020,AR→EN,ar,en,contract,ما أقصى مدة يمكن تخزين البضائع خلالها أثناء النقل بموجب عقد الشحن؟,72 hours,EN-CON-05,EN-CON-05_chunk00,EN-CON-05_chunk02;EN-CON-05_chunk01;EN-CON-05_chunk00;EN-MAN-05_chunk02;EN-MAN-05_chunk00,EN-CON-05;EN-CON-05;EN-CON-05;EN-MAN-05;EN-MAN-05,1,1,3.0,"أقصى مدة لتخزين البضائع أثناء النقل هي **72 ساعة**.
+
+### المصادر
+- EN-CON-05",1
+Q021,EN→EN,en,en,policy,What is the minimum password length required by the IT Acceptable Use Policy?,12 characters,EN-POL-01,EN-POL-01_chunk01,EN-POL-01_chunk00;EN-POL-01_chunk01;EN-POL-01_chunk03;EN-MAN-06_chunk02;EN-POL-04_chunk02,EN-POL-01;EN-POL-01;EN-POL-01;EN-MAN-06;EN-POL-04,1,1,2.0,"The minimum password length is **12 characters**.
+
+### Sources
+- EN-POL-01",1
+Q022,AR→AR,ar,ar,policy,ما الحد الأدنى لطول كلمة المرور المطلوب في سياسة استخدام تقنية المعلومات؟,12 حرفًا,AR-POL-01,AR-POL-01_chunk01,AR-POL-01_chunk00;AR-POL-01_chunk01;AR-MAN-06_chunk02;AR-POL-01_chunk03;AR-MAN-06_chunk01,AR-POL-01;AR-POL-01;AR-MAN-06;AR-POL-01;AR-MAN-06,1,1,2.0,"الحد الأدنى لطول كلمة المرور هو **12 حرفًا**.
+
+### المصادر
+- AR-POL-01",1
+Q023,EN→AR,en,ar,policy,What is the minimum password length required by the IT Acceptable Use Policy?,12 حرفًا,AR-POL-01,AR-POL-01_chunk01,AR-POL-01_chunk00;AR-POL-01_chunk01;AR-POL-01_chunk03;AR-MAN-06_chunk02;AR-MAN-06_chunk01,AR-POL-01;AR-POL-01;AR-POL-01;AR-MAN-06;AR-MAN-06,1,1,2.0,"The minimum password length required is **12 characters**.
+
+### Sources
+- AR-POL-01",1
+Q024,AR→EN,ar,en,policy,ما الحد الأدنى لطول كلمة المرور المطلوب في سياسة استخدام تقنية المعلومات؟,12 characters,EN-POL-01,EN-POL-01_chunk01,EN-POL-01_chunk01;EN-POL-01_chunk03;EN-MAN-06_chunk01;EN-MAN-06_chunk02;EN-POL-01_chunk02,EN-POL-01;EN-POL-01;EN-MAN-06;EN-MAN-06;EN-POL-01,1,1,1.0,"الحد الأدنى لطول كلمة المرور هو **12 حرفًا**.
+
+### المصادر
+- EN-POL-01",1
+Q025,EN→EN,en,en,policy,How many days of annual leave does a full-time employee receive each calendar year?,25 working days,EN-POL-02,EN-POL-02_chunk00,EN-POL-02_chunk00;EN-POL-02_chunk01;EN-MAN-02_chunk02;EN-POL-02_chunk02;EN-MAN-02_chunk01,EN-POL-02;EN-POL-02;EN-MAN-02;EN-POL-02;EN-MAN-02,1,1,1.0,"A full-time employee receives **25 working days of paid annual leave per calendar year**, in addition to public holidays observed in the employee’s country of employment.
+
+### Sources
+- EN-POL-02",1
+Q026,AR→AR,ar,ar,policy,كم يومًا من الإجازة السنوية يستحق الموظف بدوام كامل في كل سنة ميلادية؟,25 يوم عمل,AR-POL-02,AR-POL-02_chunk00,AR-POL-02_chunk00;AR-POL-02_chunk01;AR-MAN-02_chunk02;AR-POL-02_chunk02;AR-MAN-02_chunk01,AR-POL-02;AR-POL-02;AR-MAN-02;AR-POL-02;AR-MAN-02,1,1,1.0,"يستحق الموظف بدوام كامل **خمسة وعشرين يوم عمل مدفوعة الأجر** كإجازة سنوية لكل سنة ميلادية.
+
+### المصادر
+- AR-POL-02",1
+Q027,EN→AR,en,ar,policy,How many days of annual leave does a full-time employee receive each calendar year?,25 يوم عمل,AR-POL-02,AR-POL-02_chunk00,AR-POL-02_chunk00;AR-POL-02_chunk01;AR-MAN-02_chunk02;AR-POL-02_chunk02;AR-MAN-02_chunk01,AR-POL-02;AR-POL-02;AR-MAN-02;AR-POL-02;AR-MAN-02,1,1,1.0,"A full-time employee receives **25 paid working days of annual leave per calendar year**, in addition to approved public holidays in the employee’s country of work.
+
+### Sources
+- AR-POL-02",1
+Q028,AR→EN,ar,en,policy,كم يومًا من الإجازة السنوية يستحق الموظف بدوام كامل في كل سنة ميلادية؟,25 working days,EN-POL-02,EN-POL-02_chunk00,EN-POL-02_chunk00;EN-MAN-02_chunk01;EN-MAN-02_chunk02;EN-POL-02_chunk01;EN-POL-02_chunk02,EN-POL-02;EN-MAN-02;EN-MAN-02;EN-POL-02;EN-POL-02,1,1,1.0,"يستحق الموظف بدوام كامل **خمسةً وعشرين يوم عمل من الإجازة السنوية مدفوعة الأجر** لكل سنة ميلادية، بالإضافة إلى العطلات الرسمية المعمول بها في بلد عمله.
+
+### المصادر
+- EN-POL-02",1
+Q029,EN→EN,en,en,policy,To whom must employees disclose actual or perceived conflicts of interest?,Their line manager,EN-POL-03,EN-POL-03_chunk00,EN-POL-03_chunk00;EN-POL-03_chunk01;EN-POL-05_chunk01;EN-CON-02_chunk01;EN-CON-02_chunk00,EN-POL-03;EN-POL-03;EN-POL-05;EN-CON-02;EN-CON-02,1,1,1.0,"Employees must disclose actual or perceived conflicts of interest to their line manager and have them recorded in the Conflicts of Interest Register maintained by the Compliance Department.
+
+Sources:
+- EN-POL-03",1
+Q030,AR→AR,ar,ar,policy,لمن يجب على الموظفين الإفصاح عن تضارب المصالح الفعلي أو المتصور؟,المدير المباشر,AR-POL-03,AR-POL-03_chunk00,AR-POL-03_chunk00;AR-POL-03_chunk01;AR-POL-05_chunk01;AR-POL-01_chunk01;AR-POL-05_chunk00,AR-POL-03;AR-POL-03;AR-POL-05;AR-POL-01;AR-POL-05,1,1,1.0,"يجب على الموظفين الإفصاح عن تضارب المصالح الفعلي أو المتصور إلى مديرهم المباشر.
+
+### المصادر
+- AR-POL-03",1
+Q031,EN→AR,en,ar,policy,To whom must employees disclose actual or perceived conflicts of interest?,المدير المباشر,AR-POL-03,AR-POL-03_chunk00,AR-POL-03_chunk00;AR-POL-03_chunk01;AR-POL-05_chunk01;AR-REP-03_chunk02;AR-POL-05_chunk00,AR-POL-03;AR-POL-03;AR-POL-05;AR-REP-03;AR-POL-05,1,1,1.0,"Employees must disclose actual or perceived conflicts of interest to their direct supervisor.
+
+### Sources
+- AR-POL-03",1
+Q032,AR→EN,ar,en,policy,لمن يجب على الموظفين الإفصاح عن تضارب المصالح الفعلي أو المتصور؟,Their line manager,EN-POL-03,EN-POL-03_chunk00,EN-POL-03_chunk01;EN-POL-03_chunk00;EN-POL-05_chunk00;EN-POL-06_chunk02;EN-POL-01_chunk01,EN-POL-03;EN-POL-03;EN-POL-05;EN-POL-06;EN-POL-01,1,1,2.0,"يجب على الموظفين الإفصاح عن تضارب المصالح الفعلي أو المتصور إلى مديرهم المباشر، وتسجيله في سجل تضارب المصالح الذي تديره إدارة الامتثال.
+
+### المصادر
+- EN-POL-03",1
+Q033,EN→EN,en,en,policy,Which regulation is specifically named in the Data Protection and Privacy Policy?,General Data Protection Regulation (GDPR),EN-POL-04,EN-POL-04_chunk00,EN-POL-04_chunk00;EN-MAN-04_chunk02;EN-POL-01_chunk03;EN-POL-04_chunk01;EN-POL-04_chunk02,EN-POL-04;EN-MAN-04;EN-POL-01;EN-POL-04;EN-POL-04,1,1,1.0,"The regulation specifically named is the **General Data Protection Regulation (GDPR)**.
+
+### Sources
+- EN-POL-04",1
+Q034,AR→AR,ar,ar,policy,ما اللائحة المذكورة بالاسم في سياسة حماية البيانات والخصوصية؟,اللائحة العامة لحماية البيانات (GDPR),AR-POL-04,AR-POL-04_chunk00,AR-POL-04_chunk00;AR-POL-01_chunk03;AR-POL-04_chunk01;AR-POL-01_chunk01;AR-POL-03_chunk01,AR-POL-04;AR-POL-01;AR-POL-04;AR-POL-01;AR-POL-03,1,1,1.0,"اللائحة المذكورة بالاسم هي **اللائحة العامة لحماية البيانات**.
+
+### المصادر
+- AR-POL-04",1
+Q035,EN→AR,en,ar,policy,Which regulation is specifically named in the Data Protection and Privacy Policy?,اللائحة العامة لحماية البيانات (GDPR),AR-POL-04,AR-POL-04_chunk00,AR-POL-04_chunk00;AR-POL-04_chunk01;AR-POL-01_chunk03;AR-POL-01_chunk00;AR-POL-05_chunk00,AR-POL-04;AR-POL-04;AR-POL-01;AR-POL-01;AR-POL-05,1,1,1.0,"The Data Protection and Privacy Policy specifically names the **General Data Protection Regulation (GDPR)**.
+
+### Sources
+- AR-POL-04",1
+Q036,AR→EN,ar,en,policy,ما اللائحة المذكورة بالاسم في سياسة حماية البيانات والخصوصية؟,General Data Protection Regulation (GDPR),EN-POL-04,EN-POL-04_chunk00,EN-POL-04_chunk00;EN-POL-01_chunk01;EN-POL-01_chunk03;EN-MAN-04_chunk02;EN-POL-04_chunk02,EN-POL-04;EN-POL-01;EN-POL-01;EN-MAN-04;EN-POL-04,1,1,1.0,"اللائحة المذكورة بالاسم هي **اللائحة العامة لحماية البيانات (GDPR)**.
+
+### المصادر
+- EN-POL-04",1
+Q037,EN→EN,en,en,policy,What approach does the company take toward bribery and corruption?,Zero tolerance,EN-POL-05,EN-POL-05_chunk00,EN-POL-05_chunk00;EN-POL-05_chunk02;EN-POL-03_chunk02;EN-POL-05_chunk01;EN-POL-03_chunk01,EN-POL-05;EN-POL-05;EN-POL-03;EN-POL-05;EN-POL-03,1,1,1.0,"The company takes a zero-tolerance approach to bribery and corruption in all its business dealings, wherever it operates. Bribes, kickbacks, and facilitation payments are strictly prohibited, whether offered, given, or accepted directly or indirectly. Breaches may lead to disciplinary action, dismissal, and potentially criminal prosecution.
+
+**Sources**
+- EN-POL-05",1
+Q038,AR→AR,ar,ar,policy,ما النهج الذي تتبعه الشركة تجاه الرشوة والفساد؟,عدم التسامح المطلق,AR-POL-05,AR-POL-05_chunk00,AR-POL-05_chunk00;AR-POL-03_chunk01;AR-POL-05_chunk01;AR-POL-07_chunk02;AR-REP-02_chunk01,AR-POL-05;AR-POL-03;AR-POL-05;AR-POL-07;AR-REP-02,1,1,1.0,"تتبع الشركة نهج **عدم التسامح المطلق** تجاه الرشوة والفساد في جميع تعاملاتها التجارية، أينما عملت. وتحظر عرض أو تقديم أو قبول الرشاوى والعمولات غير المشروعة ودفعات التسهيل، سواء بشكل مباشر أو غير مباشر، كما تحظر التحايل على السياسة باستخدام الأموال الشخصية أو مطالبات النفقات أو الوسطاء من الأطراف الثالثة.
+
+**المصادر**  
+- AR-POL-05",1
+Q039,EN→AR,en,ar,policy,What approach does the company take toward bribery and corruption?,عدم التسامح المطلق,AR-POL-05,AR-POL-05_chunk00,AR-POL-05_chunk00;AR-POL-03_chunk00;AR-POL-03_chunk01;AR-POL-05_chunk01;AR-POL-07_chunk00,AR-POL-05;AR-POL-03;AR-POL-03;AR-POL-05;AR-POL-07,1,1,1.0,"تتبنى الشركة نهج **عدم التسامح المطلق** تجاه الرشوة والفساد في جميع تعاملاتها التجارية، أينما تعمل. كما تحظر عرض الرشاوى أو تقديمها أو قبولها، بما في ذلك العمولات غير المشروعة ودفعات التسهيل، سواء بشكل مباشر أو غير مباشر.
+
+**المصادر**
+- AR-POL-05",1
+Q040,AR→EN,ar,en,policy,ما النهج الذي تتبعه الشركة تجاه الرشوة والفساد؟,Zero tolerance,EN-POL-05,EN-POL-05_chunk00,EN-REP-02_chunk01;EN-POL-05_chunk02;EN-POL-05_chunk01;EN-POL-03_chunk02;EN-POL-05_chunk00,EN-REP-02;EN-POL-05;EN-POL-05;EN-POL-03;EN-POL-05,1,1,5.0,"تتبع الشركة نهج **عدم التسامح مطلقًا** تجاه الرشوة والفساد في جميع تعاملاتها التجارية، أينما كانت تعمل. وتحظر تقديم أو دفع أو قبول الرشاوى والعمولات غير المشروعة ومدفوعات التسهيل، سواء بصورة مباشرة أو غير مباشرة، كما تمنع استخدام الأموال الشخصية أو مطالبات المصروفات أو الوسطاء للتحايل على السياسة. ويؤدي خرق السياسة إلى إجراءات تأديبية قد تصل إلى الفصل، وقد يترتب عليه أيضًا ملاحقة جنائية.
+
+**المصادر**
+- EN-POL-05",1
+Q041,EN→EN,en,en,policy,Whose approval is required for an eligible employee to work remotely?,Line manager approval,EN-POL-06,EN-POL-06_chunk00,EN-POL-06_chunk00;EN-POL-06_chunk01;EN-POL-06_chunk02;EN-REP-04_chunk02;EN-POL-01_chunk02,EN-POL-06;EN-POL-06;EN-POL-06;EN-REP-04;EN-POL-01,1,1,1.0,"An eligible employee must obtain approval from their line manager to work remotely.
+
+### Sources
+- EN-POL-06",1
+Q042,AR→AR,ar,ar,policy,موافقة من مطلوبة للموظف المؤهل للعمل عن بُعد؟,موافقة المدير المباشر,AR-POL-06,AR-POL-06_chunk00,AR-POL-06_chunk01;AR-POL-06_chunk00;AR-POL-02_chunk02;AR-POL-02_chunk01;AR-MAN-06_chunk01,AR-POL-06;AR-POL-06;AR-POL-02;AR-POL-02;AR-MAN-06,1,1,2.0,"تتطلب ترتيبات العمل عن بُعد موافقة المدير المباشر للموظف المؤهل. ولا تُعد هذه الترتيبات استحقاقًا تلقائيًا، إذ تُقيَّم الأهلية لكل وظيفة على حدة.
+
+**المصادر**
+- AR-POL-06",1
+Q043,EN→AR,en,ar,policy,Whose approval is required for an eligible employee to work remotely?,موافقة المدير المباشر,AR-POL-06,AR-POL-06_chunk00,AR-POL-06_chunk00;AR-POL-06_chunk01;AR-POL-02_chunk02;AR-MAN-03_chunk02;AR-POL-02_chunk00,AR-POL-06;AR-POL-06;AR-POL-02;AR-MAN-03;AR-POL-02,1,1,1.0,"An eligible employee needs approval from their direct manager to work remotely.
+
+### Sources
+- AR-POL-06",1
+Q044,AR→EN,ar,en,policy,موافقة من مطلوبة للموظف المؤهل للعمل عن بُعد؟,Line manager approval,EN-POL-06,EN-POL-06_chunk00,EN-POL-06_chunk02;EN-POL-04_chunk02;EN-POL-06_chunk00;EN-MAN-06_chunk02;EN-CON-02_chunk01,EN-POL-06;EN-POL-04;EN-POL-06;EN-MAN-06;EN-CON-02,1,1,3.0,"موافقة المدير المباشر مطلوبة للموظف المؤهل للعمل عن بُعد.
+
+### المصادر
+- EN-POL-06",1
+Q045,EN→EN,en,en,policy,Within how many days must an employee submit an expense claim?,30 days,EN-POL-07,EN-POL-07_chunk00,EN-POL-07_chunk00;EN-POL-02_chunk01;EN-MAN-02_chunk02;EN-POL-07_chunk02;EN-POL-02_chunk02,EN-POL-07;EN-POL-02;EN-MAN-02;EN-POL-07;EN-POL-02,1,1,1.0,"An employee must submit an expense claim within **thirty days** of incurring the expense.
+
+### Sources
+- EN-POL-07",1
+Q046,AR→AR,ar,ar,policy,خلال كم يومًا يجب على الموظف تقديم مطالبة بالمصروفات؟,30 يومًا,AR-POL-07,AR-POL-07_chunk00,AR-POL-02_chunk01;AR-MAN-02_chunk02;AR-POL-02_chunk00;AR-POL-02_chunk02;AR-POL-07_chunk00,AR-POL-02;AR-MAN-02;AR-POL-02;AR-POL-02;AR-POL-07,1,1,5.0,"يجب على الموظف تقديم مطالبة بالمصروفات خلال **ثلاثين يومًا من تاريخ تكبد النفقة**.
+
+### المصادر
+- AR-POL-07",1
+Q047,EN→AR,en,ar,policy,Within how many days must an employee submit an expense claim?,30 يومًا,AR-POL-07,AR-POL-07_chunk00,AR-MAN-04_chunk00;AR-POL-02_chunk02;AR-MAN-02_chunk01;AR-MAN-02_chunk02;AR-POL-02_chunk00,AR-MAN-04;AR-POL-02;AR-MAN-02;AR-MAN-02;AR-POL-02,0,0,,"The available context does not contain information about the deadline for submitting an expense claim.
+
+### Sources
+None",0
+Q048,AR→EN,ar,en,policy,خلال كم يومًا يجب على الموظف تقديم مطالبة بالمصروفات؟,30 days,EN-POL-07,EN-POL-07_chunk00,EN-POL-02_chunk01;EN-REP-03_chunk02;EN-MAN-02_chunk01;EN-POL-02_chunk02;EN-POL-07_chunk02,EN-POL-02;EN-REP-03;EN-MAN-02;EN-POL-02;EN-POL-07,0,1,,"لا تتضمن المعلومات المتاحة مدةً محددة لتقديم مطالبة بالمصروفات.
+
+### المصادر
+- EN-POL-07",1
+Q049,EN→EN,en,en,manual,What must personnel complete before entering operational areas at a distribution centre?,A site safety induction,EN-MAN-01,EN-MAN-01_chunk00,EN-MAN-01_chunk00;EN-MAN-01_chunk01;EN-MAN-03_chunk01;EN-REP-04_chunk01;EN-MAN-03_chunk00,EN-MAN-01;EN-MAN-01;EN-MAN-03;EN-REP-04;EN-MAN-03,1,1,1.0,"All personnel, including employees, contractors, and visitors, must complete a site safety induction before entering operational areas.
+
+Sources:
+- EN-MAN-01",1
+Q050,AR→AR,ar,ar,manual,ما الذي يجب على العاملين إكماله قبل دخول مناطق التشغيل في مركز التوزيع؟,برنامج التوجيه الخاص بسلامة الموقع,AR-MAN-01,AR-MAN-01_chunk00,AR-MAN-01_chunk00;AR-MAN-01_chunk01;AR-MAN-03_chunk00;AR-REP-04_chunk01;AR-POL-01_chunk01,AR-MAN-01;AR-MAN-01;AR-MAN-03;AR-REP-04;AR-POL-01,1,1,1.0,"يجب على جميع العاملين إكمال **برنامج التوجيه الخاص بسلامة الموقع** قبل دخول مناطق التشغيل في مركز التوزيع.
+
+### المصادر
+- AR-MAN-01",1
+Q051,EN→AR,en,ar,manual,What must personnel complete before entering operational areas at a distribution centre?,برنامج التوجيه الخاص بسلامة الموقع,AR-MAN-01,AR-MAN-01_chunk00,AR-MAN-01_chunk00;AR-MAN-05_chunk02;AR-MAN-03_chunk00;AR-MAN-01_chunk01;AR-MAN-01_chunk02,AR-MAN-01;AR-MAN-05;AR-MAN-03;AR-MAN-01;AR-MAN-01,1,1,1.0,"All employees, contractors, and visitors must complete the site-specific safety orientation program before entering operational areas.
+
+### Sources
+- AR-MAN-01",1
+Q052,AR→EN,ar,en,manual,ما الذي يجب على العاملين إكماله قبل دخول مناطق التشغيل في مركز التوزيع؟,A site safety induction,EN-MAN-01,EN-MAN-01_chunk00,EN-MAN-01_chunk00;EN-MAN-01_chunk01;EN-MAN-03_chunk01;EN-MAN-03_chunk00;EN-POL-01_chunk02,EN-MAN-01;EN-MAN-01;EN-MAN-03;EN-MAN-03;EN-POL-01,1,1,1.0,"يجب على جميع الموظفين والمتعاقدين والزوار إكمال **تدريب تعريف السلامة في الموقع** قبل دخول مناطق التشغيل.
+
+### المصادر
+- EN-MAN-01",1
+Q053,EN→EN,en,en,manual,How long is the onboarding handbook designed to guide a new employee?,The first 90 days,EN-MAN-02,EN-MAN-02_chunk00,EN-MAN-02_chunk00;EN-MAN-02_chunk01;EN-POL-06_chunk02;EN-REP-06_chunk02;EN-POL-04_chunk02,EN-MAN-02;EN-MAN-02;EN-POL-06;EN-REP-06;EN-POL-04,1,1,1.0,"The onboarding handbook is designed to guide a new employee through their first **ninety days** with the Company.
+
+### Sources
+- EN-MAN-02",1
+Q054,AR→AR,ar,ar,manual,لأي مدة صُمم دليل تهيئة الموظف الجديد لإرشاد الموظف؟,أول 90 يومًا,AR-MAN-02,AR-MAN-02_chunk00,AR-MAN-02_chunk00;AR-MAN-02_chunk01;AR-POL-02_chunk03;AR-POL-02_chunk02;AR-POL-02_chunk01,AR-MAN-02;AR-MAN-02;AR-POL-02;AR-POL-02;AR-POL-02,1,1,1.0,"صُمم دليل تهيئة الموظف الجديد لإرشاد الموظف خلال أول تسعين يومًا له في الشركة.
+
+### المصادر
+- AR-MAN-02",1
+Q055,EN→AR,en,ar,manual,How long is the onboarding handbook designed to guide a new employee?,أول 90 يومًا,AR-MAN-02,AR-MAN-02_chunk00,AR-MAN-02_chunk00;AR-MAN-02_chunk01;AR-MAN-03_chunk00;AR-POL-02_chunk00;AR-POL-02_chunk02,AR-MAN-02;AR-MAN-02;AR-MAN-03;AR-POL-02;AR-POL-02,1,1,1.0,"The onboarding handbook is designed to guide a new employee through their first **ninety days** at the company.
+
+### Sources
+- AR-MAN-02",1
+Q056,AR→EN,ar,en,manual,لأي مدة صُمم دليل تهيئة الموظف الجديد لإرشاد الموظف؟,The first 90 days,EN-MAN-02,EN-MAN-02_chunk00,EN-MAN-02_chunk00;EN-MAN-02_chunk01;EN-POL-06_chunk02;EN-REP-06_chunk02;EN-POL-01_chunk02,EN-MAN-02;EN-MAN-02;EN-POL-06;EN-REP-06;EN-POL-01,1,1,1.0,"صُمم دليل تهيئة الموظف الجديد لإرشاد الموظف خلال أول **تسعين يومًا** له مع الشركة.
+
+### المصادر
+- EN-MAN-02",1
+Q057,EN→EN,en,en,manual,What is the minimum age for candidates beginning forklift-specific training?,18 years old,EN-MAN-03,EN-MAN-03_chunk00,EN-MAN-03_chunk00;EN-MAN-03_chunk01;EN-MAN-03_chunk02;EN-MAN-01_chunk01;EN-REP-06_chunk01,EN-MAN-03;EN-MAN-03;EN-MAN-03;EN-MAN-01;EN-REP-06,1,1,1.0,"Candidates must be at least 18 years old before beginning forklift-specific training.
+
+Sources:
+- EN-MAN-03",1
+Q058,AR→AR,ar,ar,manual,ما الحد الأدنى لعمر المرشحين لبدء التدريب الخاص بالرافعات الشوكية؟,18 عامًا,AR-MAN-03,AR-MAN-03_chunk00,AR-MAN-03_chunk00;AR-MAN-03_chunk02;AR-MAN-03_chunk01;AR-REP-06_chunk01;AR-MAN-01_chunk02,AR-MAN-03;AR-MAN-03;AR-MAN-03;AR-REP-06;AR-MAN-01,1,1,1.0,"الحد الأدنى لعمر المرشحين لبدء التدريب الخاص بالرافعات الشوكية هو **18 عامًا**.
+
+### المصادر
+- AR-MAN-03",1
+Q059,EN→AR,en,ar,manual,What is the minimum age for candidates beginning forklift-specific training?,18 عامًا,AR-MAN-03,AR-MAN-03_chunk00,AR-MAN-03_chunk00;AR-MAN-03_chunk02;AR-MAN-01_chunk00;AR-MAN-01_chunk01;AR-MAN-03_chunk01,AR-MAN-03;AR-MAN-03;AR-MAN-01;AR-MAN-01;AR-MAN-03,1,1,1.0,"Candidates must be at least 18 years old before beginning forklift-specific training.
+
+Sources:
+- AR-MAN-03",1
+Q060,AR→EN,ar,en,manual,ما الحد الأدنى لعمر المرشحين لبدء التدريب الخاص بالرافعات الشوكية؟,18 years old,EN-MAN-03,EN-MAN-03_chunk00,EN-MAN-03_chunk00;EN-MAN-03_chunk01;EN-MAN-03_chunk02;EN-REP-06_chunk02;EN-POL-04_chunk02,EN-MAN-03;EN-MAN-03;EN-MAN-03;EN-REP-06;EN-POL-04,1,1,1.0,"الحد الأدنى لعمر المرشحين لبدء التدريب الخاص بالرافعات الشوكية هو **18 عامًا**.
+
+### المصادر
+- EN-MAN-03",1
+Q061,EN→EN,en,en,manual,Within how long must all customer complaints be logged in the CRM system?,1 working day,EN-MAN-04,EN-MAN-04_chunk00,EN-MAN-04_chunk00;EN-MAN-04_chunk01;EN-MAN-06_chunk01;EN-MAN-05_chunk01;EN-POL-03_chunk01,EN-MAN-04;EN-MAN-04;EN-MAN-06;EN-MAN-05;EN-POL-03,1,1,1.0,"All customer complaints must be logged in the CRM system within **one working day of receipt**.
+
+### Sources
+- EN-MAN-04",1
+Q062,AR→AR,ar,ar,manual,خلال كم من الوقت يجب تسجيل جميع شكاوى العملاء في نظام إدارة علاقات العملاء؟,يوم عمل واحد,AR-MAN-04,AR-MAN-04_chunk00,AR-MAN-04_chunk00;AR-MAN-04_chunk01;AR-MAN-04_chunk02;AR-MAN-05_chunk02;AR-CON-04_chunk02,AR-MAN-04;AR-MAN-04;AR-MAN-04;AR-MAN-05;AR-CON-04,1,1,1.0,"يجب تسجيل جميع شكاوى العملاء في نظام إدارة علاقات العملاء خلال يوم عمل واحد من استلامها.
+
+### المصادر
+- AR-MAN-04",1
+Q063,EN→AR,en,ar,manual,Within how long must all customer complaints be logged in the CRM system?,يوم عمل واحد,AR-MAN-04,AR-MAN-04_chunk00,AR-MAN-04_chunk00;AR-MAN-04_chunk01;AR-MAN-04_chunk02;AR-MAN-05_chunk02;AR-CON-04_chunk02,AR-MAN-04;AR-MAN-04;AR-MAN-04;AR-MAN-05;AR-CON-04,1,1,1.0,"All customer complaints must be logged in the CRM system within one business day of receipt.
+
+### Sources
+- AR-MAN-04",1
+Q064,AR→EN,ar,en,manual,خلال كم من الوقت يجب تسجيل جميع شكاوى العملاء في نظام إدارة علاقات العملاء؟,1 working day,EN-MAN-04,EN-MAN-04_chunk00,EN-MAN-04_chunk00;EN-MAN-04_chunk01;EN-CON-04_chunk03;EN-MAN-06_chunk01;EN-MAN-05_chunk01,EN-MAN-04;EN-MAN-04;EN-CON-04;EN-MAN-06;EN-MAN-05,1,1,1.0,"يجب تسجيل جميع شكاوى العملاء في نظام إدارة علاقات العملاء (CRM) خلال يوم عمل واحد من استلامها.
+
+### المصادر
+- EN-MAN-04",1
+Q065,EN→EN,en,en,manual,What must incoming deliveries be checked against before acceptance?,The corresponding Purchase Order,EN-MAN-05,EN-MAN-05_chunk00,EN-MAN-05_chunk00;EN-MAN-03_chunk01;EN-MAN-05_chunk02;EN-MAN-05_chunk01;EN-CON-05_chunk01,EN-MAN-05;EN-MAN-03;EN-MAN-05;EN-MAN-05;EN-CON-05,1,1,1.0,"Incoming deliveries must be checked against the corresponding Purchase Order before acceptance.
+
+### Sources
+- EN-MAN-05",1
+Q066,AR→AR,ar,ar,manual,بماذا يجب مقارنة الشحنات الواردة قبل قبولها؟,أمر الشراء المقابل,AR-MAN-05,AR-MAN-05_chunk00,AR-CON-05_chunk01;AR-MAN-05_chunk02;AR-MAN-05_chunk01;AR-CON-05_chunk00;AR-REP-05_chunk01,AR-CON-05;AR-MAN-05;AR-MAN-05;AR-CON-05;AR-REP-05,0,1,,"لا يحتوي السياق المتاح على معلومات كافية لتحديد ما يجب مقارنة الشحنات الواردة به قبل قبولها. يذكر الدليل فقط أن الطلبات تُفحص قبل الصرف مقابل قائمة التعبئة.
+
+### المصادر
+- AR-MAN-05",1
+Q067,EN→AR,en,ar,manual,What must incoming deliveries be checked against before acceptance?,أمر الشراء المقابل,AR-MAN-05,AR-MAN-05_chunk00,AR-MAN-05_chunk02;AR-CON-05_chunk01;AR-CON-05_chunk00;AR-MAN-03_chunk02;AR-MAN-03_chunk01,AR-MAN-05;AR-CON-05;AR-CON-05;AR-MAN-03;AR-MAN-03,0,1,,"The available excerpts do not contain enough information to determine what incoming deliveries must be checked against before acceptance.
+
+### Sources
+None.",0
+Q068,AR→EN,ar,en,manual,بماذا يجب مقارنة الشحنات الواردة قبل قبولها؟,The corresponding Purchase Order,EN-MAN-05,EN-MAN-05_chunk00,EN-MAN-05_chunk02;EN-MAN-05_chunk01;EN-MAN-05_chunk00;EN-CON-05_chunk01;EN-CON-05_chunk02,EN-MAN-05;EN-MAN-05;EN-MAN-05;EN-CON-05;EN-CON-05,1,1,3.0,"يجب مقارنة الشحنات الواردة بأمر الشراء المقابل قبل قبولها، مع التحقق من وصف الأصناف وكميتها وحالتها.
+
+### المصادر
+- EN-MAN-05",1
+Q069,EN→EN,en,en,manual,In which system must all IT support requests be logged as tickets?,The IT Service Management (ITSM) system,EN-MAN-06,EN-MAN-06_chunk00,EN-MAN-06_chunk00;EN-MAN-06_chunk01;EN-MAN-06_chunk02;EN-POL-01_chunk00;EN-POL-01_chunk01,EN-MAN-06;EN-MAN-06;EN-MAN-06;EN-POL-01;EN-POL-01,1,1,1.0,"All IT support requests must be logged as tickets in the **IT Service Management (ITSM) system**.
+
+### Sources
+- EN-MAN-06",1
+Q070,AR→AR,ar,ar,manual,في أي نظام يجب تسجيل جميع طلبات دعم تقنية المعلومات كتذاكر؟,نظام إدارة خدمات تقنية المعلومات (ITSM),AR-MAN-06,AR-MAN-06_chunk00,AR-MAN-06_chunk00;AR-MAN-06_chunk02;AR-MAN-06_chunk01;AR-CON-04_chunk00;AR-POL-01_chunk02,AR-MAN-06;AR-MAN-06;AR-MAN-06;AR-CON-04;AR-POL-01,1,1,1.0,"يجب تسجيل جميع طلبات دعم تقنية المعلومات كتذاكر في **نظام إدارة خدمات تقنية المعلومات**.
+
+### المصادر
+- AR-MAN-06",1
+Q071,EN→AR,en,ar,manual,In which system must all IT support requests be logged as tickets?,نظام إدارة خدمات تقنية المعلومات (ITSM),AR-MAN-06,AR-MAN-06_chunk00,AR-MAN-06_chunk00;AR-MAN-06_chunk01;AR-MAN-06_chunk02;AR-POL-02_chunk02;AR-POL-01_chunk00,AR-MAN-06;AR-MAN-06;AR-MAN-06;AR-POL-02;AR-POL-01,1,1,1.0,"All IT support requests must be logged as tickets in the IT service management system.
+
+Sources:
+- AR-MAN-06",1
+Q072,AR→EN,ar,en,manual,في أي نظام يجب تسجيل جميع طلبات دعم تقنية المعلومات كتذاكر؟,The IT Service Management (ITSM) system,EN-MAN-06,EN-MAN-06_chunk00,EN-MAN-06_chunk00;EN-MAN-06_chunk02;EN-MAN-06_chunk01;EN-POL-04_chunk02;EN-POL-01_chunk00,EN-MAN-06;EN-MAN-06;EN-MAN-06;EN-POL-04;EN-POL-01,1,1,1.0,"يجب تسجيل جميع طلبات دعم تقنية المعلومات كتذاكر في **نظام إدارة خدمات تقنية المعلومات (ITSM)**.
+
+### المصادر
+- EN-MAN-06",1
+Q073,EN→EN,en,en,manual,What is the minimum Fire Warden staffing ratio per shift?,1 Fire Warden per 50 employees,EN-MAN-07,EN-MAN-07_chunk00,EN-REP-06_chunk02;EN-MAN-07_chunk00;EN-MAN-07_chunk01;EN-REP-06_chunk01;EN-MAN-07_chunk02,EN-REP-06;EN-MAN-07;EN-MAN-07;EN-REP-06;EN-MAN-07,1,1,2.0,"The minimum staffing ratio is **one Fire Warden for every 50 employees on-site per shift**.
+
+### Sources
+- EN-MAN-07",1
+Q074,AR→AR,ar,ar,manual,ما الحد الأدنى لنسبة مراقبي الحرائق لكل وردية؟,مراقب حريق واحد لكل 50 موظفًا,AR-MAN-07,AR-MAN-07_chunk00,AR-MAN-07_chunk00;AR-REP-06_chunk01;AR-MAN-07_chunk01;AR-MAN-01_chunk01;AR-MAN-03_chunk01,AR-MAN-07;AR-REP-06;AR-MAN-07;AR-MAN-01;AR-MAN-03,1,1,1.0,"الحد الأدنى هو **مراقب حريق واحد لكل 50 موظفًا في الموقع لكل وردية**.
+
+### المصادر
+- AR-MAN-07",1
+Q075,EN→AR,en,ar,manual,What is the minimum Fire Warden staffing ratio per shift?,مراقب حريق واحد لكل 50 موظفًا,AR-MAN-07,AR-MAN-07_chunk00,AR-MAN-07_chunk00;AR-REP-06_chunk00;AR-REP-06_chunk02;AR-MAN-07_chunk01;AR-REP-02_chunk01,AR-MAN-07;AR-REP-06;AR-REP-06;AR-MAN-07;AR-REP-02,1,1,1.0,"The minimum staffing ratio is **one Fire Warden for every 50 employees per site, per shift**.
+
+### Sources
+- AR-MAN-07",1
+Q076,AR→EN,ar,en,manual,ما الحد الأدنى لنسبة مراقبي الحرائق لكل وردية؟,1 Fire Warden per 50 employees,EN-MAN-07,EN-MAN-07_chunk00,EN-REP-06_chunk02;EN-REP-06_chunk01;EN-MAN-07_chunk00;EN-MAN-07_chunk01;EN-REP-02_chunk02,EN-REP-06;EN-REP-06;EN-MAN-07;EN-MAN-07;EN-REP-02,1,1,3.0,"الحد الأدنى هو مراقب حرائق واحد لكل 50 موظفًا في الموقع لكل وردية.
+
+### المصادر
+- EN-MAN-07",1
+Q077,EN→EN,en,en,report,How many distribution centres and corporate offices are covered by the Q2 2026 facilities report?,Four distribution centres and two corporate offices,EN-REP-01,EN-REP-01_chunk00,EN-REP-01_chunk00;EN-REP-01_chunk03;EN-REP-01_chunk02;EN-REP-01_chunk01;EN-REP-04_chunk01,EN-REP-01;EN-REP-01;EN-REP-01;EN-REP-01;EN-REP-04,1,1,1.0,"The Q2 2026 facilities report covers **four distribution centres and two corporate offices**.
+
+### Sources
+- EN-REP-01",1
+Q078,AR→AR,ar,ar,report,كم عدد مراكز التوزيع والمكاتب الرئيسية التي يغطيها تقرير المرافق للربع الثاني من 2026؟,أربعة مراكز توزيع ومكتبان رئيسيان,AR-REP-01,AR-REP-01_chunk00,AR-REP-01_chunk02;AR-REP-01_chunk00;AR-REP-06_chunk02;AR-REP-01_chunk01;AR-REP-04_chunk01,AR-REP-01;AR-REP-01;AR-REP-06;AR-REP-01;AR-REP-04,1,1,2.0,"يغطي التقرير **أربعة مراكز توزيع ومكتبين رئيسيين**، أي ما مجموعه **ستة مواقع**.
+
+### المصادر
+- AR-REP-01",1
+Q079,EN→AR,en,ar,report,How many distribution centres and corporate offices are covered by the Q2 2026 facilities report?,أربعة مراكز توزيع ومكتبان رئيسيان,AR-REP-01,AR-REP-01_chunk00,AR-REP-06_chunk02;AR-REP-01_chunk00;AR-REP-01_chunk02;AR-REP-02_chunk00;AR-REP-02_chunk01,AR-REP-06;AR-REP-01;AR-REP-01;AR-REP-02;AR-REP-02,1,1,2.0,"The Q2 2026 facilities report covers **four distribution centres and two corporate offices**.
+
+### Sources
+- AR-REP-01",1
+Q080,AR→EN,ar,en,report,كم عدد مراكز التوزيع والمكاتب الرئيسية التي يغطيها تقرير المرافق للربع الثاني من 2026؟,Four distribution centres and two corporate offices,EN-REP-01,EN-REP-01_chunk00,EN-REP-01_chunk00;EN-REP-01_chunk03;EN-REP-01_chunk02;EN-REP-01_chunk01;EN-REP-04_chunk01,EN-REP-01;EN-REP-01;EN-REP-01;EN-REP-01;EN-REP-04,1,1,1.0,"يغطي التقرير **أربعة مراكز توزيع ومكتبين للشركة**، أي ما مجموعه **ستة مواقع**.
+
+### المصادر
+- EN-REP-01",1
+Q081,EN→EN,en,en,report,What primarily drove the reduction in Scope 1 and Scope 2 carbon emissions in 2025?,The LED lighting retrofit programme and increased procurement of renewable electricity,EN-REP-02,EN-REP-02_chunk00,EN-REP-02_chunk02;EN-REP-02_chunk00;EN-REP-04_chunk01;EN-REP-01_chunk00;EN-REP-06_chunk01,EN-REP-02;EN-REP-02;EN-REP-04;EN-REP-01;EN-REP-06,1,1,2.0,"The reduction was primarily driven by the LED lighting retrofit programme and increased procurement of renewable electricity.
+
+### Sources
+- EN-REP-02",1
+Q082,AR→AR,ar,ar,report,ما العاملان الرئيسيان اللذان ساهما في خفض انبعاثات الكربون من النطاقين 1 و2 في عام 2025؟,تحديث الإضاءة إلى مصابيح LED وزيادة شراء الكهرباء المتجددة,AR-REP-02,AR-REP-02_chunk00,AR-REP-02_chunk02;AR-REP-02_chunk00;AR-REP-02_chunk01;AR-CON-05_chunk02;AR-REP-05_chunk02,AR-REP-02;AR-REP-02;AR-REP-02;AR-CON-05;AR-REP-05,1,1,2.0,"العاملان الرئيسيان هما:
+
+1. برنامج تحديث الإضاءة إلى مصابيح أكثر كفاءة.
+2. زيادة شراء الكهرباء المتجددة.
+
+### المصادر
+- AR-REP-02",1
+Q083,EN→AR,en,ar,report,What primarily drove the reduction in Scope 1 and Scope 2 carbon emissions in 2025?,تحديث الإضاءة إلى مصابيح LED وزيادة شراء الكهرباء المتجددة,AR-REP-02,AR-REP-02_chunk00,AR-REP-02_chunk02;AR-REP-02_chunk00;AR-REP-02_chunk01;AR-REP-06_chunk01;AR-REP-05_chunk02,AR-REP-02;AR-REP-02;AR-REP-02;AR-REP-06;AR-REP-05,1,1,2.0,"The reduction was primarily driven by a lighting retrofit to LED lamps and increased purchases of renewable electricity.
+
+### Sources
+- AR-REP-02",1
+Q084,AR→EN,ar,en,report,ما العاملان الرئيسيان اللذان ساهما في خفض انبعاثات الكربون من النطاقين 1 و2 في عام 2025؟,The LED lighting retrofit programme and increased procurement of renewable electricity,EN-REP-02,EN-REP-02_chunk00,EN-REP-02_chunk02;EN-REP-02_chunk00;EN-REP-06_chunk02;EN-REP-06_chunk01;EN-REP-01_chunk03,EN-REP-02;EN-REP-02;EN-REP-06;EN-REP-06;EN-REP-01,1,1,2.0,"العاملان الرئيسيان هما:
+
+1. برنامج تحديث الإضاءة باستخدام مصابيح LED.
+2. زيادة شراء الكهرباء من مصادر متجددة.
+
+### المصادر
+- EN-REP-02",1
+Q085,EN→EN,en,en,report,At approximately what time was the anomalous login activity detected?,14:20,EN-REP-03,EN-REP-03_chunk00,EN-REP-03_chunk00;EN-REP-03_chunk01;EN-REP-03_chunk02;EN-MAN-06_chunk01;EN-MAN-06_chunk00,EN-REP-03;EN-REP-03;EN-REP-03;EN-MAN-06;EN-MAN-06,1,1,1.0,"The anomalous login activity was detected at approximately **14:20**.
+
+### Sources
+- EN-REP-03",1
+Q086,AR→AR,ar,ar,report,في أي وقت تقريبًا تم رصد نشاط تسجيل الدخول غير المعتاد؟,14:20,AR-REP-03,AR-REP-03_chunk00,AR-REP-03_chunk00;AR-REP-03_chunk01;AR-REP-03_chunk02;AR-POL-01_chunk03;AR-POL-01_chunk02,AR-REP-03;AR-REP-03;AR-REP-03;AR-POL-01;AR-POL-01,1,1,1.0,"تم رصد نشاط تسجيل الدخول غير المعتاد حوالي الساعة 14:20.
+
+### المصادر
+- AR-REP-03",1
+Q087,EN→AR,en,ar,report,At approximately what time was the anomalous login activity detected?,14:20,AR-REP-03,AR-REP-03_chunk00,AR-REP-03_chunk00;AR-REP-03_chunk01;AR-REP-03_chunk02;AR-POL-01_chunk03;AR-CON-04_chunk01,AR-REP-03;AR-REP-03;AR-REP-03;AR-POL-01;AR-CON-04,1,1,1.0,"The anomalous login activity was detected at approximately **14:20**.
+
+### Sources
+- AR-REP-03",1
+Q088,AR→EN,ar,en,report,في أي وقت تقريبًا تم رصد نشاط تسجيل الدخول غير المعتاد؟,14:20,EN-REP-03,EN-REP-03_chunk00,EN-REP-03_chunk00;EN-REP-03_chunk02;EN-REP-03_chunk01;EN-POL-01_chunk03;EN-MAN-06_chunk01,EN-REP-03;EN-REP-03;EN-REP-03;EN-POL-01;EN-MAN-06,1,1,1.0,"تم رصد نشاط تسجيل الدخول غير المعتاد تقريبًا الساعة **14:20** في 18 يونيو 2026.
+
+### المصادر
+- EN-REP-03",1
+Q089,EN→EN,en,en,report,What was the lowest-scoring area in the 2026 employee engagement survey?,Opportunities for career progression,EN-REP-04,EN-REP-04_chunk00,EN-REP-04_chunk00;EN-REP-04_chunk01;EN-REP-02_chunk01;EN-REP-04_chunk02;EN-REP-06_chunk01,EN-REP-04;EN-REP-04;EN-REP-02;EN-REP-04;EN-REP-06,1,1,1.0,"The lowest-scoring area was **opportunities for career progression**, with a score of **61%**.
+
+Sources:  
+- EN-REP-04",1
+Q090,AR→AR,ar,ar,report,ما المجال الذي حصل على أدنى درجة في استطلاع مشاركة الموظفين لعام 2026؟,فرص التطور الوظيفي,AR-REP-04,AR-REP-04_chunk00,AR-REP-04_chunk00;AR-REP-02_chunk01;AR-REP-04_chunk01;AR-REP-06_chunk01;AR-REP-06_chunk00,AR-REP-04;AR-REP-02;AR-REP-04;AR-REP-06;AR-REP-06,1,1,1.0,"حصل مجال **فرص التطور الوظيفي** على أدنى درجة في استطلاع مشاركة الموظفين لعام 2026.
+
+### المصادر
+- AR-REP-04",1
+Q091,EN→AR,en,ar,report,What was the lowest-scoring area in the 2026 employee engagement survey?,فرص التطور الوظيفي,AR-REP-04,AR-REP-04_chunk00,AR-REP-04_chunk00;AR-REP-02_chunk01;AR-REP-06_chunk02;AR-REP-06_chunk01;AR-REP-04_chunk01,AR-REP-04;AR-REP-02;AR-REP-06;AR-REP-06;AR-REP-04,1,1,1.0,"The lowest-scoring area was **career development opportunities**.
+
+Sources:
+- AR-REP-04",1
+Q092,AR→EN,ar,en,report,ما المجال الذي حصل على أدنى درجة في استطلاع مشاركة الموظفين لعام 2026؟,Opportunities for career progression,EN-REP-04,EN-REP-04_chunk00,EN-REP-04_chunk01;EN-REP-04_chunk00;EN-REP-02_chunk01;EN-REP-04_chunk02;EN-REP-06_chunk01,EN-REP-04;EN-REP-04;EN-REP-02;EN-REP-04;EN-REP-06,1,1,2.0,"حصل مجال **فرص التقدم الوظيفي/التطوير المهني** على أدنى درجة، وهي **61%**.
+
+### المصادر
+- EN-REP-04",1
+Q093,EN→EN,en,en,report,How many suppliers were downgraded to Elevated Risk status during Q2 2026?,2 suppliers,EN-REP-05,EN-REP-05_chunk00,EN-REP-05_chunk00;EN-REP-05_chunk01;EN-REP-05_chunk02;EN-REP-01_chunk00;EN-REP-01_chunk02,EN-REP-05;EN-REP-05;EN-REP-05;EN-REP-01;EN-REP-01,1,1,1.0,"Two suppliers were downgraded to Elevated Risk status during Q2 2026.
+
+Sources:
+- EN-REP-05",1
+Q094,AR→AR,ar,ar,report,كم عدد الموردين الذين تم تخفيض تصنيفهم إلى حالة مخاطر مرتفعة خلال الربع الثاني من 2026؟,موردان,AR-REP-05,AR-REP-05_chunk00,AR-REP-05_chunk00;AR-REP-05_chunk02;AR-REP-05_chunk01;AR-REP-06_chunk02;AR-REP-06_chunk00,AR-REP-05;AR-REP-05;AR-REP-05;AR-REP-06;AR-REP-06,1,1,1.0,"تم تخفيض تصنيف موردين اثنين إلى حالة مخاطر مرتفعة نسبيًا خلال الربع الثاني من عام 2026.
+
+### المصادر
+AR-REP-05",1
+Q095,EN→AR,en,ar,report,How many suppliers were downgraded to Elevated Risk status during Q2 2026?,موردان,AR-REP-05,AR-REP-05_chunk00,AR-REP-05_chunk00;AR-REP-05_chunk01;AR-REP-05_chunk02;AR-REP-06_chunk02;AR-REP-01_chunk00,AR-REP-05;AR-REP-05;AR-REP-05;AR-REP-06;AR-REP-01,1,1,1.0,"Two suppliers were downgraded to Elevated Risk status during Q2 2026.
+
+### Sources
+- AR-REP-05",1
+Q096,AR→EN,ar,en,report,كم عدد الموردين الذين تم تخفيض تصنيفهم إلى حالة مخاطر مرتفعة خلال الربع الثاني من 2026؟,2 suppliers,EN-REP-05,EN-REP-05_chunk00,EN-REP-05_chunk00;EN-REP-05_chunk02;EN-REP-05_chunk01;EN-REP-02_chunk02;EN-REP-03_chunk02,EN-REP-05;EN-REP-05;EN-REP-05;EN-REP-02;EN-REP-03,1,1,1.0,"تم تخفيض تصنيف **موردين اثنين** إلى حالة «مخاطر مرتفعة» خلال الربع الثاني من عام 2026.
+
+### المصادر
+- EN-REP-05",1
+Q097,EN→EN,en,en,report,What Lost Time Injury Frequency Rate was recorded for 2025?,"2.1 per 200,000 hours worked",EN-REP-06,EN-REP-06_chunk00,EN-REP-06_chunk00;EN-REP-06_chunk01;EN-REP-02_chunk01;EN-REP-06_chunk02;EN-REP-01_chunk01,EN-REP-06;EN-REP-06;EN-REP-02;EN-REP-06;EN-REP-01,1,1,1.0,"The Lost Time Injury Frequency Rate (LTIFR) recorded for 2025 was **2.1 per 200,000 hours worked**.
+
+### Sources
+- EN-REP-06
+- EN-REP-02",1
+Q098,AR→AR,ar,ar,report,ما معدل تكرار إصابات فقدان وقت العمل المسجل لعام 2025؟,"2.1 لكل 200,000 ساعة عمل",AR-REP-06,AR-REP-06_chunk00,AR-REP-06_chunk00;AR-REP-06_chunk01;AR-REP-06_chunk02;AR-REP-02_chunk01;AR-REP-02_chunk02,AR-REP-06;AR-REP-06;AR-REP-06;AR-REP-02;AR-REP-02,1,1,1.0,"بلغ معدل تكرار إصابات فقدان وقت العمل المسجل لعام 2025 **2.1 لكل 200,000 ساعة عمل**.
+
+### المصادر
+- AR-REP-06
+- AR-REP-02",1
+Q099,EN→AR,en,ar,report,What Lost Time Injury Frequency Rate was recorded for 2025?,"2.1 لكل 200,000 ساعة عمل",AR-REP-06,AR-REP-06_chunk00,AR-REP-06_chunk01;AR-REP-06_chunk00;AR-REP-06_chunk02;AR-REP-02_chunk01;AR-REP-02_chunk02,AR-REP-06;AR-REP-06;AR-REP-06;AR-REP-02;AR-REP-02,1,1,2.0,"The Lost Time Injury Frequency Rate recorded for 2025 was **2.1 per 200,000 working hours**.
+
+### Sources
+- AR-REP-06
+- AR-REP-02",1
+Q100,AR→EN,ar,en,report,ما معدل تكرار إصابات فقدان وقت العمل المسجل لعام 2025؟,"2.1 per 200,000 hours worked",EN-REP-06,EN-REP-06_chunk00,EN-REP-06_chunk00;EN-REP-02_chunk01;EN-REP-06_chunk01;EN-REP-06_chunk02;EN-REP-04_chunk01,EN-REP-06;EN-REP-02;EN-REP-06;EN-REP-06;EN-REP-04,1,1,1.0,"بلغ معدل تكرار إصابات فقدان وقت العمل (LTIFR) لعام 2025 **2.1 لكل 200,000 ساعة عمل**.
+
+### المصادر
+- EN-REP-06
+- EN-REP-02",1

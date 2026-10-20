@@ -1,0 +1,49 @@
+Customer Complaint Handling Manual
+Document ID: EN-MAN-04 Department: Customer Service Version: 2.1
+Effective Date: 1 February 2026
+1. Purpose
+This manual provides Customer Service staff with a consistent process for
+receiving, investigating, and resolving customer complaints in a fair and timely
+manner.
+2. Complaint Channels
+2.1 Customers may submit complaints through the Company website contact form,
+by telephone to the Customer Service Helpline, by email, or in writing to the
+registered head office address.
+2.2 All complaints, regardless of channel, must be logged in the Customer
+Relationship Management (CRM) system within one working day of receipt.
+3. Initial Response
+3.1 Customers must receive an acknowledgement of their complaint within 24
+hours, confirming receipt and providing a unique complaint reference number.
+3.2 The acknowledgement should set expectations for the investigation timeline:
+five working days for straightforward complaints, or up to fifteen working days for
+complaints requiring investigation across multiple departments.
+4. Investigation
+4.1 The assigned Customer Service Representative must review all relevant order,
+delivery, and communication records related to the complaint before contacting the
+customer for resolution.
+4.2 Complaints involving potential product safety issues must be escalated
+immediately to the Quality Assurance team, regardless of the standard timeline in
+Section 3.2.
+1
+
+5. Resolution and Compensation
+5.1 Representatives are authorised to offer resolutions up to £100 in value (refund,
+replacement, or goodwill credit) without further approval. Resolutions exceeding
+this value require Team Leader sign-off.
+5.2 All resolutions offered must be recorded in the CRM system, including the
+reasoning for the resolution chosen.
+6. Escalation
+6.1 Complaints unresolved after the standard timeline, or where the customer
+remains dissatisfied with the proposed resolution, must be escalated to the
+Customer Service Team Leader, and if unresolved thereafter, to the Head of
+Customer Experience.
+7. Recurring Issues
+7.1 The Customer Service Team Leader reviews complaint data monthly to identify
+recurring product, delivery, or service issues, and reports significant trends to the
+relevant department head and the Quality Assurance team.
+8. Related Documents
+• Data Protection and Privacy Policy (EN-POL-04) — for handling of customer
+personal data during investigations
+9. Approval
+Approved by the Head of Customer Experience on 10 January 2026.
+2

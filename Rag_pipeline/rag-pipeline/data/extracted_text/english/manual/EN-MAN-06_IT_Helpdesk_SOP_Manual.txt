@@ -1,0 +1,49 @@
+IT Helpdesk Standard Operating Procedures
+Manual
+Document ID: EN-MAN-06 Department: Information Technology Version: 2.5
+Effective Date: 1 June 2026
+1. Purpose
+This manual defines the standard procedures followed by the IT Service Desk in
+logging, prioritising, and resolving employee IT support requests.
+2. Ticket Logging
+2.1 All support requests must be logged as a ticket in the IT Service Management
+(ITSM) system, whether received by phone, email, or the self-service portal,
+including a description of the issue and the affected system.
+2.2 Tickets must be categorised at logging using the standard taxonomy:
+Hardware, Software, Network, Account Access, or Security.
+3. Priority Classification
+3.1 Tickets are classified into four priority levels: Critical (complete service outage
+affecting multiple users), High (significant impact on a single user's ability to
+work), Medium (inconvenience with a workaround available), and Low (minor issue
+or general request).
+3.2 Target response times are: Critical — 15 minutes; High — 1 hour; Medium — 4
+hours; Low — 1 working day. Target resolution times are set out in Appendix A.
+4. Escalation
+4.1 Tickets not resolved within the target resolution time must be escalated
+automatically by the ITSM system to the Level 2 support team, with the original
+analyst remaining the point of contact for the requester.
+4.2 Critical tickets affecting more than ten users must be escalated immediately to
+the IT Manager and logged as a Major Incident under the Major Incident
+Management Procedure.
+1
+
+5. Password Resets and Account Access
+5.1 Password reset requests require identity verification through the employee's
+registered mobile number or in-person verification with photo ID before the reset is
+processed.
+5.2 Requests for elevated system access (e.g. administrator rights) require written
+approval from the requester's line manager before being actioned.
+6. Remote Support
+6.1 Analysts may request remote access to an employee's device to diagnose and
+resolve issues, but must obtain the employee's verbal consent before initiating a
+remote session, in accordance with the IT Acceptable Use Policy (EN-POL-01).
+7. Ticket Closure
+7.1 Tickets may only be closed once the requester has confirmed the issue is
+resolved, or after three unsuccessful attempts to contact the requester over a five
+working day period, whichever comes first.
+8. Related Documents
+• IT Acceptable Use Policy (EN-POL-01)
+• Major Incident Management Procedure (IT-PROC-02)
+9. Approval
+Approved by the IT Service Delivery Manager on 20 May 2026.
+2

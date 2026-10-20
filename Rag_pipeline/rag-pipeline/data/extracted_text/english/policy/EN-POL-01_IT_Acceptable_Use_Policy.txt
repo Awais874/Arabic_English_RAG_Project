@@ -1,0 +1,75 @@
+IT Acceptable Use Policy
+Document ID: EN-POL-01 Department: Information Technology Version: 3.2
+Effective Date: 1 March 2026 Review Cycle: Annual
+1. Purpose
+This policy establishes the rules governing the acceptable use of company-owned
+computing equipment, networks, and information systems by all employees,
+contractors, and temporary staff of Meridian Holdings Group ("the Company"). Its
+purpose is to protect the Company's information assets from unauthorised access,
+misuse, or loss, while enabling staff to use IT resources efficiently in support of
+their duties.
+2. Scope
+This policy applies to all individuals who are granted access to Company IT
+resources, including desktop computers, laptops, mobile devices, email accounts,
+internal networks, cloud storage systems, and any third-party software licensed to
+the Company. It covers use of these resources both on Company premises and
+remotely.
+3. General Principles
+3.1 Company IT resources are provided primarily for business purposes. Limited
+personal use is permitted provided it does not interfere with an employee's duties,
+does not consume significant network bandwidth or storage, and does not violate
+any other provision of this policy.
+3.2 Employees must not use Company IT resources to access, store, or distribute
+material that is illegal, discriminatory, defamatory, or sexually explicit.
+3.3 All passwords must comply with the Company's Password Standard (minimum
+twelve characters, including at least one uppercase letter, one number, and one
+symbol) and must not be shared with any other individual, including colleagues and
+IT support staff.
+3.4 Employees must lock their workstation whenever they leave it unattended, even
+for short periods.
+1
+
+4. Email and Communication
+4.1 Company email accounts must not be used to send confidential information to
+external parties without prior authorisation from the employee's line manager and,
+where the information is classified as Restricted, from the Data Protection Officer.
+4.2 Employees must exercise caution with unsolicited emails and attachments and
+must report suspected phishing attempts to the IT Service Desk immediately,
+without opening any linked attachments.
+5. Software and Hardware
+5.1 Only software approved by the IT Department may be installed on Company
+devices. Requests for new software must be submitted through the IT Service
+Portal.
+5.2 Employees must not attempt to disable, bypass, or uninstall antivirus software,
+firewalls, or other security controls installed on Company devices.
+5.3 Any loss or theft of a Company device must be reported to the IT Service Desk
+and to the employee's line manager within twenty-four hours of discovery.
+6. Remote Access
+6.1 Remote access to Company systems is permitted only through the Company's
+approved Virtual Private Network (VPN) client. Use of personal, unmanaged
+devices to access Company email or internal systems is prohibited unless the
+device has been enrolled in the Company's Mobile Device Management (MDM)
+programme.
+6.2 Employees working remotely must ensure that their home network is secured
+with a password and that Company devices are not used on unsecured public Wi-Fi
+networks without VPN protection.
+7. Monitoring
+7.1 The Company reserves the right to monitor use of its IT resources, including
+email traffic and internet browsing activity, for the purposes of ensuring
+compliance with this policy, protecting the Company's systems, and meeting legal
+and regulatory obligations. Monitoring will be conducted in accordance with the
+Company's Data Protection Policy and applicable law.
+2
+
+8. Non-Compliance
+8.1 Breach of this policy may result in disciplinary action up to and including
+termination of employment, and may, in serious cases, be reported to law
+enforcement authorities.
+9. Related Documents
+• Password Standard (IT-STD-04)
+• Data Protection Policy (LEGAL-POL-02)
+• Mobile Device Management Guidelines (IT-GDL-07)
+10. Approval
+This policy was approved by the IT Steering Committee on 15 February 2026 and
+supersedes version 3.1, dated 10 September 2024.
+3

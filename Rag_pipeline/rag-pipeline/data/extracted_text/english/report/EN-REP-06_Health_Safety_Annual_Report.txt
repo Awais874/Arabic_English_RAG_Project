@@ -1,0 +1,53 @@
+Health and Safety Annual Report — 2025
+Document ID: EN-REP-06 Department: Health, Safety and Environment
+Reporting Period: Calendar Year 2025 Prepared By: HSE Department
+Distribution: Internal — Executive Committee and Board Health & Safety
+Committee
+1. Executive Summary
+This report summarises health and safety performance across all Meridian
+Holdings Group sites during 2025. The Company recorded a Lost Time Injury
+Frequency Rate (LTIFR) of 2.1 per 200,000 hours worked, an improvement from
+2.8 in 2024. There were no fatalities or RIDDOR-reportable major injuries during
+the year. Two incidents required regulatory notification due to hospital admission
+of the affected employee.
+2. Incident Statistics
+Metric 2025 2024 Change
+Total recordable incidents 34 41 -17%
+Lost time injuries 12 16 -25%
+LTIFR (per 200,000 hours) 2.1 2.8 -25%
+Near-miss reports 187 152 +23%
+Fire drills completed 24 22 +9%
+2.1 The increase in near-miss reporting is regarded as a positive indicator,
+reflecting improved safety culture and reporting confidence following the near-miss
+reporting campaign launched in Q1 2025, rather than an increase in underlying
+risk.
+3. Incident Categories
+3.1 Manual handling injuries accounted for 42% of recordable incidents, remaining
+the most common incident category, consistent with prior years. Slips, trips, and
+falls accounted for a further 26%.
+3.2 Two incidents in 2025 involved forklift operations, both resulting in property
+damage with no personal injury; both are detailed further in the associated
+1
+
+Quarterly Operations Reports for the relevant periods (see EN-REP-01 for the Q2
+2026 example format).
+4. Regulatory Notifications
+4.1 Two incidents during 2025 met the threshold for regulatory notification under
+applicable health and safety legislation due to hospital admission of the injured
+employee exceeding 24 hours. Both incidents were investigated in full, with
+corrective actions implemented and verified closed by the HSE Department.
+5. Training and Culture Initiatives
+5.1 The Forklift Operator Training Manual (EN-MAN-03) was revised in 2025 to
+include additional pedestrian-awareness content, following analysis of near-miss
+data indicating pedestrian-forklift interactions as an emerging risk area.
+5.2 Fire Warden coverage was expanded in 2025 in line with the Fire Warden
+Procedures Manual (EN-MAN-07), achieving full compliance with the one warden
+per fifty employees ratio across all sites for the first time.
+6. Priorities for 2026
+• Reduce LTIFR to below 1.8 per 200,000 hours worked
+• Complete a full review of manual handling procedures across all distribution
+centres
+• Extend near-miss reporting campaign to corporate office locations
+7. Approval
+Approved by the Board Health & Safety Committee on 15 February 2026.
+2

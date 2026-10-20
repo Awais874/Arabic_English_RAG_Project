@@ -1,0 +1,56 @@
+Freight and Logistics Services Contract
+Document ID: EN-CON-05 Contract Reference: MHG-FLC-2026-008 Parties:
+Meridian Holdings Group ("the Client") and Continental Freight Solutions Ltd ("the
+Carrier") Effective Date: 1 July 2026 Contract Term: 3 years
+1. Scope of Services
+1.1 The Carrier shall provide inbound and outbound freight transportation services
+between the Client's distribution centres and designated delivery points, including
+road freight, customs clearance support for international shipments, and
+warehousing of goods in transit not exceeding 72 hours.
+1.2 Service volumes and lane-specific rates are set out in Schedule A (Rate Card),
+reviewed annually in accordance with Section 4.
+2. Service Levels
+2.1 The Carrier shall achieve an on-time delivery rate of at least 96% measured
+monthly across all lanes, calculated in accordance with the definitions set out in
+Schedule B (Service Level Agreement).
+2.2 Failure to meet the 96% on-time delivery target for two consecutive months
+shall trigger a formal service review meeting between the parties within ten
+working days, and may result in service credits as set out in Schedule B.
+3. Liability for Loss or Damage
+3.1 The Carrier shall be liable for loss or damage to goods while in its custody, up
+to the value declared on the relevant shipping documentation, subject to the
+liability cap set out in Schedule C.
+3.2 The Carrier shall notify the Client within 24 hours of becoming aware of any
+loss, damage, or significant delay affecting a shipment.
+4. Rate Review
+4.1 Rates set out in Schedule A shall be reviewed annually on the anniversary of
+the Effective Date, taking into account fuel price indices and any changes to the
+scope of services. Any rate increase exceeding 8% in a single review requires
+mutual written agreement.
+1
+
+5. Fuel Surcharge
+5.1 A fuel surcharge shall apply to all shipments, calculated monthly based on the
+average diesel price index published by the relevant national statistics authority, in
+accordance with the formula set out in Schedule A.
+6. Insurance
+6.1 The Carrier shall maintain goods-in-transit insurance and public liability
+insurance of not less than £5,000,000 per occurrence for the duration of this
+Agreement, and shall provide evidence of such insurance upon request.
+7. Sustainability Commitments
+7.1 The Carrier shall provide the Client with quarterly reporting on carbon
+emissions associated with shipments under this Agreement, in a format compatible
+with the Client's Annual Sustainability Report (EN-REP-02), and shall work with the
+Client in good faith toward an agreed emissions reduction target over the term of
+this Agreement.
+8. Termination
+8.1 Either party may terminate this Agreement for convenience with 120 days'
+written notice. The Client may terminate immediately for a material, uncured
+breach persisting more than 30 days after written notice.
+9. Governing Law
+9.1 This Agreement shall be governed by and construed in accordance with the
+laws of the jurisdiction in which the Client's headquarters is located.
+10. Signatures
+For and on behalf of Meridian Holdings Group: _____ Date: _
+For and on behalf of Continental Freight Solutions Ltd: _____ Date: _
+2

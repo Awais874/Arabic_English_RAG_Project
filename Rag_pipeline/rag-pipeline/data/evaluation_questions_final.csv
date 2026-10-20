@@ -1,0 +1,101 @@
+﻿question_id,condition,query_language,target_language,document_type,question,relevant_doc_id,relevant_chunk_ids,expected_answer,status,audit_note
+Q001,EN→EN,en,en,contract,What is the term of the office cleaning services contract?,EN-CON-01,EN-CON-01_chunk00,24 months,Verified mapping,verified
+Q002,AR→AR,ar,ar,contract,ما مدة عقد خدمات النظافة للمكاتب؟,AR-CON-01,AR-CON-01_chunk00,24 شهرًا,Verified mapping,verified
+Q003,EN→AR,en,ar,contract,What is the term of the office cleaning services contract?,AR-CON-01,AR-CON-01_chunk00,24 شهرًا,Verified mapping,verified
+Q004,AR→EN,ar,en,contract,ما مدة عقد خدمات النظافة للمكاتب؟,EN-CON-01,EN-CON-01_chunk00,24 months,Verified mapping,verified
+Q005,EN→EN,en,en,contract,How long does the Non-Disclosure Agreement remain in effect?,EN-CON-02,EN-CON-02_chunk01,3 years,Verified mapping,verified
+Q006,AR→AR,ar,ar,contract,كم مدة سريان اتفاقية عدم الإفصاح؟,AR-CON-02,AR-CON-02_chunk01,3 سنوات,Verified mapping,verified
+Q007,EN→AR,en,ar,contract,How long does the Non-Disclosure Agreement remain in effect?,AR-CON-02,AR-CON-02_chunk01,3 سنوات,Verified mapping,verified
+Q008,AR→EN,ar,en,contract,كم مدة سريان اتفاقية عدم الإفصاح؟,EN-CON-02,EN-CON-02_chunk01,3 years,Verified mapping,verified
+Q009,EN→EN,en,en,contract,What is the term of the warehouse lease?,EN-CON-03,EN-CON-03_chunk00,10 years,Verified mapping,verified
+Q010,AR→AR,ar,ar,contract,ما مدة عقد إيجار المستودع؟,AR-CON-03,AR-CON-03_chunk00,10 سنوات,Verified mapping,verified
+Q011,EN→AR,en,ar,contract,What is the term of the warehouse lease?,AR-CON-03,AR-CON-03_chunk00,10 سنوات,Verified mapping,verified
+Q012,AR→EN,ar,en,contract,ما مدة عقد إيجار المستودع؟,EN-CON-03,EN-CON-03_chunk00,10 years,Verified mapping,verified
+Q013,EN→EN,en,en,contract,What is the maximum number of named users permitted under the software licence?,EN-CON-04,EN-CON-04_chunk00,450 named users,Verified mapping,verified
+Q014,AR→AR,ar,ar,contract,ما الحد الأقصى لعدد المستخدمين المسموح بهم بموجب ترخيص البرنامج؟,AR-CON-04,AR-CON-04_chunk00,450 مستخدمًا مسمى,Verified mapping,verified
+Q015,EN→AR,en,ar,contract,What is the maximum number of named users permitted under the software licence?,AR-CON-04,AR-CON-04_chunk00,450 مستخدمًا مسمى,Verified mapping,verified
+Q016,AR→EN,ar,en,contract,ما الحد الأقصى لعدد المستخدمين المسموح بهم بموجب ترخيص البرنامج؟,EN-CON-04,EN-CON-04_chunk00,450 named users,Verified mapping,verified
+Q017,EN→EN,en,en,contract,What is the maximum time goods may be warehoused in transit under the freight contract?,EN-CON-05,EN-CON-05_chunk00,72 hours,Verified mapping,verified
+Q018,AR→AR,ar,ar,contract,ما أقصى مدة يمكن تخزين البضائع خلالها أثناء النقل بموجب عقد الشحن؟,AR-CON-05,AR-CON-05_chunk00,72 ساعة,Verified mapping,verified
+Q019,EN→AR,en,ar,contract,What is the maximum time goods may be warehoused in transit under the freight contract?,AR-CON-05,AR-CON-05_chunk00,72 ساعة,Verified mapping,verified
+Q020,AR→EN,ar,en,contract,ما أقصى مدة يمكن تخزين البضائع خلالها أثناء النقل بموجب عقد الشحن؟,EN-CON-05,EN-CON-05_chunk00,72 hours,Verified mapping,verified
+Q021,EN→EN,en,en,policy,What is the minimum password length required by the IT Acceptable Use Policy?,EN-POL-01,EN-POL-01_chunk01,12 characters,Verified mapping,verify Arabic OCR number
+Q022,AR→AR,ar,ar,policy,ما الحد الأدنى لطول كلمة المرور المطلوب في سياسة استخدام تقنية المعلومات؟,AR-POL-01,AR-POL-01_chunk01,12 حرفًا,Needs OCR repair,verify Arabic OCR number
+Q023,EN→AR,en,ar,policy,What is the minimum password length required by the IT Acceptable Use Policy?,AR-POL-01,AR-POL-01_chunk01,12 حرفًا,Needs OCR repair,verify Arabic OCR number
+Q024,AR→EN,ar,en,policy,ما الحد الأدنى لطول كلمة المرور المطلوب في سياسة استخدام تقنية المعلومات؟,EN-POL-01,EN-POL-01_chunk01,12 characters,Verified mapping,verify Arabic OCR number
+Q025,EN→EN,en,en,policy,How many days of annual leave does a full-time employee receive each calendar year?,EN-POL-02,EN-POL-02_chunk00,25 working days,Verified mapping,verified
+Q026,AR→AR,ar,ar,policy,كم يومًا من الإجازة السنوية يستحق الموظف بدوام كامل في كل سنة ميلادية؟,AR-POL-02,AR-POL-02_chunk00,25 يوم عمل,Verified mapping,verified
+Q027,EN→AR,en,ar,policy,How many days of annual leave does a full-time employee receive each calendar year?,AR-POL-02,AR-POL-02_chunk00,25 يوم عمل,Verified mapping,verified
+Q028,AR→EN,ar,en,policy,كم يومًا من الإجازة السنوية يستحق الموظف بدوام كامل في كل سنة ميلادية؟,EN-POL-02,EN-POL-02_chunk00,25 working days,Verified mapping,verified
+Q029,EN→EN,en,en,policy,To whom must employees disclose actual or perceived conflicts of interest?,EN-POL-03,EN-POL-03_chunk00,Their line manager,Verified mapping,verified
+Q030,AR→AR,ar,ar,policy,لمن يجب على الموظفين الإفصاح عن تضارب المصالح الفعلي أو المتصور؟,AR-POL-03,AR-POL-03_chunk00,المدير المباشر,Verified mapping,verified
+Q031,EN→AR,en,ar,policy,To whom must employees disclose actual or perceived conflicts of interest?,AR-POL-03,AR-POL-03_chunk00,المدير المباشر,Verified mapping,verified
+Q032,AR→EN,ar,en,policy,لمن يجب على الموظفين الإفصاح عن تضارب المصالح الفعلي أو المتصور؟,EN-POL-03,EN-POL-03_chunk00,Their line manager,Verified mapping,verified
+Q033,EN→EN,en,en,policy,Which regulation is specifically named in the Data Protection and Privacy Policy?,EN-POL-04,EN-POL-04_chunk00,General Data Protection Regulation (GDPR),Verified mapping,verified
+Q034,AR→AR,ar,ar,policy,ما اللائحة المذكورة بالاسم في سياسة حماية البيانات والخصوصية؟,AR-POL-04,AR-POL-04_chunk00,اللائحة العامة لحماية البيانات (GDPR),Verified mapping,verified
+Q035,EN→AR,en,ar,policy,Which regulation is specifically named in the Data Protection and Privacy Policy?,AR-POL-04,AR-POL-04_chunk00,اللائحة العامة لحماية البيانات (GDPR),Verified mapping,verified
+Q036,AR→EN,ar,en,policy,ما اللائحة المذكورة بالاسم في سياسة حماية البيانات والخصوصية؟,EN-POL-04,EN-POL-04_chunk00,General Data Protection Regulation (GDPR),Verified mapping,verified
+Q037,EN→EN,en,en,policy,What approach does the company take toward bribery and corruption?,EN-POL-05,EN-POL-05_chunk00,Zero tolerance,Verified mapping,verified
+Q038,AR→AR,ar,ar,policy,ما النهج الذي تتبعه الشركة تجاه الرشوة والفساد؟,AR-POL-05,AR-POL-05_chunk00,عدم التسامح المطلق,Verified mapping,verified
+Q039,EN→AR,en,ar,policy,What approach does the company take toward bribery and corruption?,AR-POL-05,AR-POL-05_chunk00,عدم التسامح المطلق,Verified mapping,verified
+Q040,AR→EN,ar,en,policy,ما النهج الذي تتبعه الشركة تجاه الرشوة والفساد؟,EN-POL-05,EN-POL-05_chunk00,Zero tolerance,Verified mapping,verified
+Q041,EN→EN,en,en,policy,Whose approval is required for an eligible employee to work remotely?,EN-POL-06,EN-POL-06_chunk00,Line manager approval,Verified mapping,verified
+Q042,AR→AR,ar,ar,policy,موافقة من مطلوبة للموظف المؤهل للعمل عن بُعد؟,AR-POL-06,AR-POL-06_chunk00,موافقة المدير المباشر,Verified mapping,verified
+Q043,EN→AR,en,ar,policy,Whose approval is required for an eligible employee to work remotely?,AR-POL-06,AR-POL-06_chunk00,موافقة المدير المباشر,Verified mapping,verified
+Q044,AR→EN,ar,en,policy,موافقة من مطلوبة للموظف المؤهل للعمل عن بُعد؟,EN-POL-06,EN-POL-06_chunk00,Line manager approval,Verified mapping,verified
+Q045,EN→EN,en,en,policy,Within how many days must an employee submit an expense claim?,EN-POL-07,EN-POL-07_chunk00,30 days,Verified mapping,verified
+Q046,AR→AR,ar,ar,policy,خلال كم يومًا يجب على الموظف تقديم مطالبة بالمصروفات؟,AR-POL-07,AR-POL-07_chunk00,30 يومًا,Verified mapping,verified
+Q047,EN→AR,en,ar,policy,Within how many days must an employee submit an expense claim?,AR-POL-07,AR-POL-07_chunk00,30 يومًا,Verified mapping,verified
+Q048,AR→EN,ar,en,policy,خلال كم يومًا يجب على الموظف تقديم مطالبة بالمصروفات؟,EN-POL-07,EN-POL-07_chunk00,30 days,Verified mapping,verified
+Q049,EN→EN,en,en,manual,What must personnel complete before entering operational areas at a distribution centre?,EN-MAN-01,EN-MAN-01_chunk00,A site safety induction,Verified mapping,verified
+Q050,AR→AR,ar,ar,manual,ما الذي يجب على العاملين إكماله قبل دخول مناطق التشغيل في مركز التوزيع؟,AR-MAN-01,AR-MAN-01_chunk00,برنامج التوجيه الخاص بسلامة الموقع,Verified mapping,verified
+Q051,EN→AR,en,ar,manual,What must personnel complete before entering operational areas at a distribution centre?,AR-MAN-01,AR-MAN-01_chunk00,برنامج التوجيه الخاص بسلامة الموقع,Verified mapping,verified
+Q052,AR→EN,ar,en,manual,ما الذي يجب على العاملين إكماله قبل دخول مناطق التشغيل في مركز التوزيع؟,EN-MAN-01,EN-MAN-01_chunk00,A site safety induction,Verified mapping,verified
+Q053,EN→EN,en,en,manual,How long is the onboarding handbook designed to guide a new employee?,EN-MAN-02,EN-MAN-02_chunk00,The first 90 days,Verified mapping,verified
+Q054,AR→AR,ar,ar,manual,لأي مدة صُمم دليل تهيئة الموظف الجديد لإرشاد الموظف؟,AR-MAN-02,AR-MAN-02_chunk00,أول 90 يومًا,Verified mapping,verified
+Q055,EN→AR,en,ar,manual,How long is the onboarding handbook designed to guide a new employee?,AR-MAN-02,AR-MAN-02_chunk00,أول 90 يومًا,Verified mapping,verified
+Q056,AR→EN,ar,en,manual,لأي مدة صُمم دليل تهيئة الموظف الجديد لإرشاد الموظف؟,EN-MAN-02,EN-MAN-02_chunk00,The first 90 days,Verified mapping,verified
+Q057,EN→EN,en,en,manual,What is the minimum age for candidates beginning forklift-specific training?,EN-MAN-03,EN-MAN-03_chunk00,18 years old,Verified mapping,verified
+Q058,AR→AR,ar,ar,manual,ما الحد الأدنى لعمر المرشحين لبدء التدريب الخاص بالرافعات الشوكية؟,AR-MAN-03,AR-MAN-03_chunk00,18 عامًا,Verified mapping,verified
+Q059,EN→AR,en,ar,manual,What is the minimum age for candidates beginning forklift-specific training?,AR-MAN-03,AR-MAN-03_chunk00,18 عامًا,Verified mapping,verified
+Q060,AR→EN,ar,en,manual,ما الحد الأدنى لعمر المرشحين لبدء التدريب الخاص بالرافعات الشوكية؟,EN-MAN-03,EN-MAN-03_chunk00,18 years old,Verified mapping,verified
+Q061,EN→EN,en,en,manual,Within how long must all customer complaints be logged in the CRM system?,EN-MAN-04,EN-MAN-04_chunk00,1 working day,Verified mapping,verified
+Q062,AR→AR,ar,ar,manual,خلال كم من الوقت يجب تسجيل جميع شكاوى العملاء في نظام إدارة علاقات العملاء؟,AR-MAN-04,AR-MAN-04_chunk00,يوم عمل واحد,Verified mapping,verified
+Q063,EN→AR,en,ar,manual,Within how long must all customer complaints be logged in the CRM system?,AR-MAN-04,AR-MAN-04_chunk00,يوم عمل واحد,Verified mapping,verified
+Q064,AR→EN,ar,en,manual,خلال كم من الوقت يجب تسجيل جميع شكاوى العملاء في نظام إدارة علاقات العملاء؟,EN-MAN-04,EN-MAN-04_chunk00,1 working day,Verified mapping,verified
+Q065,EN→EN,en,en,manual,What must incoming deliveries be checked against before acceptance?,EN-MAN-05,EN-MAN-05_chunk00,The corresponding Purchase Order,Verified mapping,verified
+Q066,AR→AR,ar,ar,manual,بماذا يجب مقارنة الشحنات الواردة قبل قبولها؟,AR-MAN-05,AR-MAN-05_chunk00,أمر الشراء المقابل,Verified mapping,verified
+Q067,EN→AR,en,ar,manual,What must incoming deliveries be checked against before acceptance?,AR-MAN-05,AR-MAN-05_chunk00,أمر الشراء المقابل,Verified mapping,verified
+Q068,AR→EN,ar,en,manual,بماذا يجب مقارنة الشحنات الواردة قبل قبولها؟,EN-MAN-05,EN-MAN-05_chunk00,The corresponding Purchase Order,Verified mapping,verified
+Q069,EN→EN,en,en,manual,In which system must all IT support requests be logged as tickets?,EN-MAN-06,EN-MAN-06_chunk00,The IT Service Management (ITSM) system,Verified mapping,verified
+Q070,AR→AR,ar,ar,manual,في أي نظام يجب تسجيل جميع طلبات دعم تقنية المعلومات كتذاكر؟,AR-MAN-06,AR-MAN-06_chunk00,نظام إدارة خدمات تقنية المعلومات (ITSM),Verified mapping,verified
+Q071,EN→AR,en,ar,manual,In which system must all IT support requests be logged as tickets?,AR-MAN-06,AR-MAN-06_chunk00,نظام إدارة خدمات تقنية المعلومات (ITSM),Verified mapping,verified
+Q072,AR→EN,ar,en,manual,في أي نظام يجب تسجيل جميع طلبات دعم تقنية المعلومات كتذاكر؟,EN-MAN-06,EN-MAN-06_chunk00,The IT Service Management (ITSM) system,Verified mapping,verified
+Q073,EN→EN,en,en,manual,What is the minimum Fire Warden staffing ratio per shift?,EN-MAN-07,EN-MAN-07_chunk00,1 Fire Warden per 50 employees,Verified mapping,verified
+Q074,AR→AR,ar,ar,manual,ما الحد الأدنى لنسبة مراقبي الحرائق لكل وردية؟,AR-MAN-07,AR-MAN-07_chunk00,مراقب حريق واحد لكل 50 موظفًا,Verified mapping,verified
+Q075,EN→AR,en,ar,manual,What is the minimum Fire Warden staffing ratio per shift?,AR-MAN-07,AR-MAN-07_chunk00,مراقب حريق واحد لكل 50 موظفًا,Verified mapping,verified
+Q076,AR→EN,ar,en,manual,ما الحد الأدنى لنسبة مراقبي الحرائق لكل وردية؟,EN-MAN-07,EN-MAN-07_chunk00,1 Fire Warden per 50 employees,Verified mapping,verified
+Q077,EN→EN,en,en,report,How many distribution centres and corporate offices are covered by the Q2 2026 facilities report?,EN-REP-01,EN-REP-01_chunk00,Four distribution centres and two corporate offices,Verified mapping,Revised to avoid OCR-corrupted numeric evidence; verified against target chunk.
+Q078,AR→AR,ar,ar,report,كم عدد مراكز التوزيع والمكاتب الرئيسية التي يغطيها تقرير المرافق للربع الثاني من 2026؟,AR-REP-01,AR-REP-01_chunk00,أربعة مراكز توزيع ومكتبان رئيسيان,Verified mapping,Revised to avoid OCR-corrupted numeric evidence; verified against target chunk.
+Q079,EN→AR,en,ar,report,How many distribution centres and corporate offices are covered by the Q2 2026 facilities report?,AR-REP-01,AR-REP-01_chunk00,أربعة مراكز توزيع ومكتبان رئيسيان,Verified mapping,Revised to avoid OCR-corrupted numeric evidence; verified against target chunk.
+Q080,AR→EN,ar,en,report,كم عدد مراكز التوزيع والمكاتب الرئيسية التي يغطيها تقرير المرافق للربع الثاني من 2026؟,EN-REP-01,EN-REP-01_chunk00,Four distribution centres and two corporate offices,Verified mapping,Revised to avoid OCR-corrupted numeric evidence; verified against target chunk.
+Q081,EN→EN,en,en,report,What primarily drove the reduction in Scope 1 and Scope 2 carbon emissions in 2025?,EN-REP-02,EN-REP-02_chunk00,The LED lighting retrofit programme and increased procurement of renewable electricity,Verified mapping,Revised to avoid OCR-corrupted numeric evidence; verified against target chunk.
+Q082,AR→AR,ar,ar,report,ما العاملان الرئيسيان اللذان ساهما في خفض انبعاثات الكربون من النطاقين 1 و2 في عام 2025؟,AR-REP-02,AR-REP-02_chunk00,تحديث الإضاءة إلى مصابيح LED وزيادة شراء الكهرباء المتجددة,Verified mapping,Revised to avoid OCR-corrupted numeric evidence; verified against target chunk.
+Q083,EN→AR,en,ar,report,What primarily drove the reduction in Scope 1 and Scope 2 carbon emissions in 2025?,AR-REP-02,AR-REP-02_chunk00,تحديث الإضاءة إلى مصابيح LED وزيادة شراء الكهرباء المتجددة,Verified mapping,Revised to avoid OCR-corrupted numeric evidence; verified against target chunk.
+Q084,AR→EN,ar,en,report,ما العاملان الرئيسيان اللذان ساهما في خفض انبعاثات الكربون من النطاقين 1 و2 في عام 2025؟,EN-REP-02,EN-REP-02_chunk00,The LED lighting retrofit programme and increased procurement of renewable electricity,Verified mapping,Revised to avoid OCR-corrupted numeric evidence; verified against target chunk.
+Q085,EN→EN,en,en,report,At approximately what time was the anomalous login activity detected?,EN-REP-03,EN-REP-03_chunk00,14:20,Verified mapping,verified
+Q086,AR→AR,ar,ar,report,في أي وقت تقريبًا تم رصد نشاط تسجيل الدخول غير المعتاد؟,AR-REP-03,AR-REP-03_chunk00,14:20,Verified mapping,verified
+Q087,EN→AR,en,ar,report,At approximately what time was the anomalous login activity detected?,AR-REP-03,AR-REP-03_chunk00,14:20,Verified mapping,verified
+Q088,AR→EN,ar,en,report,في أي وقت تقريبًا تم رصد نشاط تسجيل الدخول غير المعتاد؟,EN-REP-03,EN-REP-03_chunk00,14:20,Verified mapping,verified
+Q089,EN→EN,en,en,report,What was the lowest-scoring area in the 2026 employee engagement survey?,EN-REP-04,EN-REP-04_chunk00,Opportunities for career progression,Verified mapping,Revised to avoid OCR-corrupted numeric evidence; verified against target chunk.
+Q090,AR→AR,ar,ar,report,ما المجال الذي حصل على أدنى درجة في استطلاع مشاركة الموظفين لعام 2026؟,AR-REP-04,AR-REP-04_chunk00,فرص التطور الوظيفي,Verified mapping,Revised to avoid OCR-corrupted numeric evidence; verified against target chunk.
+Q091,EN→AR,en,ar,report,What was the lowest-scoring area in the 2026 employee engagement survey?,AR-REP-04,AR-REP-04_chunk00,فرص التطور الوظيفي,Verified mapping,Revised to avoid OCR-corrupted numeric evidence; verified against target chunk.
+Q092,AR→EN,ar,en,report,ما المجال الذي حصل على أدنى درجة في استطلاع مشاركة الموظفين لعام 2026؟,EN-REP-04,EN-REP-04_chunk00,Opportunities for career progression,Verified mapping,Revised to avoid OCR-corrupted numeric evidence; verified against target chunk.
+Q093,EN→EN,en,en,report,How many suppliers were downgraded to Elevated Risk status during Q2 2026?,EN-REP-05,EN-REP-05_chunk00,2 suppliers,Verified mapping,verified
+Q094,AR→AR,ar,ar,report,كم عدد الموردين الذين تم تخفيض تصنيفهم إلى حالة مخاطر مرتفعة خلال الربع الثاني من 2026؟,AR-REP-05,AR-REP-05_chunk00,موردان,Verified mapping,verified
+Q095,EN→AR,en,ar,report,How many suppliers were downgraded to Elevated Risk status during Q2 2026?,AR-REP-05,AR-REP-05_chunk00,موردان,Verified mapping,verified
+Q096,AR→EN,ar,en,report,كم عدد الموردين الذين تم تخفيض تصنيفهم إلى حالة مخاطر مرتفعة خلال الربع الثاني من 2026؟,EN-REP-05,EN-REP-05_chunk00,2 suppliers,Verified mapping,verified
+Q097,EN→EN,en,en,report,What Lost Time Injury Frequency Rate was recorded for 2025?,EN-REP-06,EN-REP-06_chunk00,"2.1 per 200,000 hours worked",Verified mapping,verified
+Q098,AR→AR,ar,ar,report,ما معدل تكرار إصابات فقدان وقت العمل المسجل لعام 2025؟,AR-REP-06,AR-REP-06_chunk00,"2.1 لكل 200,000 ساعة عمل",Verified mapping,verified
+Q099,EN→AR,en,ar,report,What Lost Time Injury Frequency Rate was recorded for 2025?,AR-REP-06,AR-REP-06_chunk00,"2.1 لكل 200,000 ساعة عمل",Verified mapping,verified
+Q100,AR→EN,ar,en,report,ما معدل تكرار إصابات فقدان وقت العمل المسجل لعام 2025؟,EN-REP-06,EN-REP-06_chunk00,"2.1 per 200,000 hours worked",Verified mapping,verified

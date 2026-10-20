@@ -1,0 +1,57 @@
+IT Software Licensing Agreement
+Document ID: EN-CON-04 Contract Reference: MHG-SLA-2026-019 Parties:
+Meridian Holdings Group ("the Licensee") and Vireon Systems Inc. ("the Licensor")
+Product: Vireon WMS Enterprise Warehouse Management Software Effective
+Date: 1 September 2026 Initial Term: 3 years
+1. Grant of Licence
+1.1 The Licensor grants to the Licensee a non-exclusive, non-transferable licence to
+use the Vireon WMS Enterprise software ("the Software") at up to six Company
+sites, for a maximum of 450 named users, for the duration of this Agreement.
+1.2 The licence granted does not include the right to sublicense, resell, or make the
+Software available to any third party outside the Licensee's corporate group.
+2. Fees
+2.1 The Licensee shall pay an annual subscription fee of £284,000, invoiced
+annually in advance, covering software licensing, standard support, and quarterly
+feature updates.
+2.2 Additional named users beyond the 450 included in the base fee may be added
+at a rate of £180 per user per year, invoiced quarterly in arrears based on actual
+usage.
+3. Support and Maintenance
+3.1 The Licensor shall provide Standard Support during business hours (9:00 AM to
+6:00 PM, Monday to Friday, excluding public holidays), with target response times
+of 2 hours for Critical issues and 8 hours for High priority issues, as defined in the
+Service Level Agreement attached as Schedule A.
+3.2 The Licensor shall provide at least two feature update releases per year at no
+additional cost during the term of this Agreement.
+4. Data Ownership and Security
+4.1 All data entered into the Software by the Licensee remains the property of the
+Licensee. The Licensor shall not access, use, or disclose the Licensee's data except
+as necessary to provide the support services under this Agreement.
+1
+
+4.2 The Licensor shall maintain industry-standard security controls, including
+encryption of data at rest and in transit, and shall notify the Licensee within 48
+hours of becoming aware of any security incident affecting the Licensee's data.
+5. Service Availability
+5.1 The Licensor guarantees a minimum uptime of 99.5% for the hosted Software,
+measured monthly, excluding scheduled maintenance windows notified at least 72
+hours in advance. Failure to meet this target entitles the Licensee to service credits
+as set out in Schedule A.
+6. Term and Termination
+6.1 This Agreement shall commence on the Effective Date and continue for an
+initial term of three years, renewing automatically for successive one-year terms
+unless either party provides at least 90 days' written notice of non-renewal.
+6.2 The Licensee may terminate this Agreement for convenience with 180 days'
+written notice, subject to payment of any fees due for the notice period.
+7. Data Return on Termination
+7.1 Upon termination of this Agreement for any reason, the Licensor shall provide
+the Licensee with a complete export of its data in a standard format within 30 days,
+and shall securely delete all copies of the Licensee's data from its systems within
+90 days thereafter.
+8. Governing Law
+8.1 This Agreement shall be governed by and construed in accordance with the
+laws of the jurisdiction in which the Licensee's headquarters is located.
+9. Signatures
+For and on behalf of Meridian Holdings Group: _____ Date: _
+For and on behalf of Vireon Systems Inc.: _____ Date: _
+2

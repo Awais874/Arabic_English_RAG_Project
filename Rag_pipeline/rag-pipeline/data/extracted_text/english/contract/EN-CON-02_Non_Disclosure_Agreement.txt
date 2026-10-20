@@ -1,0 +1,51 @@
+Non-Disclosure Agreement
+Document ID: EN-CON-02 Contract Reference: MHG-NDA-2026-037 Parties:
+Meridian Holdings Group ("the Disclosing Party") and Northbridge Analytics Ltd
+("the Receiving Party") Effective Date: 3 June 2026
+1. Purpose
+This Agreement is entered into in connection with discussions between the parties
+regarding a potential engagement for supply chain data analytics services ("the
+Purpose"), during which the Disclosing Party may share confidential information
+with the Receiving Party.
+2. Definition of Confidential Information
+2.1 "Confidential Information" means any information disclosed by the Disclosing
+Party to the Receiving Party, whether orally, in writing, or in any other form, that is
+designated as confidential or that, by its nature, would reasonably be understood to
+be confidential, including but not limited to business plans, financial data, supplier
+information, and technical specifications.
+2.2 Confidential Information does not include information that: was already known
+to the Receiving Party prior to disclosure without obligation of confidentiality; is or
+becomes publicly available through no fault of the Receiving Party; or is
+independently developed by the Receiving Party without reference to the
+Confidential Information.
+3. Obligations of the Receiving Party
+3.1 The Receiving Party shall use the Confidential Information solely for the
+Purpose and shall not disclose it to any third party without the prior written
+consent of the Disclosing Party.
+3.2 The Receiving Party shall protect the Confidential Information using at least the
+same degree of care it uses to protect its own confidential information, and in no
+case less than a reasonable degree of care.
+3.3 The Receiving Party may disclose Confidential Information to its employees and
+advisors on a strict need-to-know basis, provided such individuals are bound by
+confidentiality obligations no less restrictive than those set out in this Agreement.
+1
+
+4. Term
+4.1 This Agreement shall remain in effect for a period of three years from the
+Effective Date. The obligations of confidentiality shall survive termination of this
+Agreement for a further period of two years.
+5. Return or Destruction of Information
+5.1 Upon written request by the Disclosing Party, or upon termination of
+discussions regarding the Purpose, the Receiving Party shall promptly return or
+destroy all Confidential Information and confirm such destruction in writing.
+6. No Licence
+6.1 Nothing in this Agreement shall be construed as granting any licence or right
+to the Receiving Party under any patent, trademark, copyright, or other intellectual
+property right of the Disclosing Party.
+7. Governing Law
+7.1 This Agreement shall be governed by and construed in accordance with the
+laws of the jurisdiction in which the Disclosing Party's headquarters is located.
+8. Signatures
+For and on behalf of Meridian Holdings Group: _____ Date: _
+For and on behalf of Northbridge Analytics Ltd: _____ Date: _
+2

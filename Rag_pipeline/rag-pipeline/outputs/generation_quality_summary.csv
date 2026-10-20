@@ -1,0 +1,6 @@
+﻿scope,n_answers,mean_correctness_score,mean_groundedness_score,citation_accuracy,fully_correct_answers,grounded_answers,correctness_rate,groundedness_rate,condition
+overall,100,1.92,2.0,0.98,96,100,0.96,1.0,
+condition,25,1.92,2.0,1.0,24,25,0.96,1.0,AR→AR
+condition,25,1.92,2.0,1.0,24,25,0.96,1.0,AR→EN
+condition,25,1.84,2.0,0.92,23,25,0.92,1.0,EN→AR
+condition,25,2.0,2.0,1.0,25,25,1.0,1.0,EN→EN

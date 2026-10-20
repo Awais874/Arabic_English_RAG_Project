@@ -1,0 +1,62 @@
+Quarterly Operations Report — Facilities
+Department
+Document ID: EN-REP-01 Department: Facilities Management Reporting
+Period: Q2 2026 (April–June) Prepared By: Facilities Operations Team
+Distribution: Internal — Department Heads and Executive Committee
+1. Executive Summary
+This report summarises facilities operations across the Company's four distribution
+centres and two corporate offices during the second quarter of 2026. Overall
+facility uptime remained above the 98% target across all sites. Energy consumption
+decreased by 6.4% compared with Q1 2026, attributed to the completion of the
+LED lighting retrofit at Distribution Centre 2. Two maintenance incidents required
+escalation to the Health, Safety and Environment team, both of which are detailed
+in Section 4.
+2. Facility Uptime
+Site Uptime (%) Target (%) Status
+Distribution Centre 1 99.2 98.0 Met
+Distribution Centre 2 98.7 98.0 Met
+Distribution Centre 3 97.6 98.0 Below target
+Distribution Centre 4 99.0 98.0 Met
+Corporate Office (HQ) 99.8 98.0 Met
+Corporate Office (Regional) 99.5 98.0 Met
+Distribution Centre 3 fell below target due to an unplanned HVAC system failure on
+12 May 2026, resulting in a partial facility shutdown of six hours while emergency
+repairs were carried out. A root-cause analysis identified a failed compressor unit,
+which has since been replaced under warranty.
+3. Energy Consumption
+Total electricity consumption across all sites was 1,842 MWh in Q2 2026, down
+from 1,968 MWh in Q1 2026, a reduction of 6.4%. The LED retrofit at Distribution
+Centre 2, completed in March 2026, is estimated to account for approximately two-
+1
+
+thirds of this reduction, with the remainder attributed to seasonal variation in
+heating demand.
+4. Maintenance Incidents
+4.1 HVAC Failure, Distribution Centre 3 (12 May 2026): As described in
+Section 2, a compressor failure caused a six-hour partial shutdown. No injuries
+were reported. The incident was logged and investigated in accordance with the
+Workplace Health and Safety Manual (EN-MAN-01), Section 6.
+4.2 Loading Dock Door Malfunction, Distribution Centre 1 (28 May 2026): A
+mechanical fault in loading dock door 4 caused it to become stuck in the open
+position overnight. No security breach or product loss occurred. The door was
+repaired within twelve hours and an additional inspection of all dock doors across
+the site was completed as a precautionary measure.
+5. Planned Maintenance for Q3 2026
+• Roof inspection and preventative maintenance, Distribution Centre 4 (July
+2026)
+• Fire suppression system annual certification, all sites (August 2026)
+• HVAC preventative maintenance programme extended to Distribution Centres
+1, 3, and 4 following the Q2 incident (ongoing)
+6. Budget Summary
+Facilities operating expenditure for Q2 2026 totalled within 3% of the approved
+quarterly budget, with the variance attributable to the emergency HVAC repair at
+Distribution Centre 3.
+7. Recommendations
+7.1 Accelerate the HVAC preventative maintenance programme to all sites ahead of
+the original Q4 2026 schedule, given the incident at Distribution Centre 3.
+7.2 Extend the LED retrofit programme to Distribution Centres 1, 3, and 4 in light
+of the energy savings observed at Distribution Centre 2.
+8. Approval
+Submitted to the Executive Committee by the Head of Facilities Management on 10
+July 2026.
+2

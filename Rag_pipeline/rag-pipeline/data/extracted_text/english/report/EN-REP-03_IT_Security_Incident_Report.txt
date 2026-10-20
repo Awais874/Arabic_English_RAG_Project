@@ -1,0 +1,50 @@
+IT Security Incident Report
+Document ID: EN-REP-03 Department: Information Technology / Information
+Security Incident Reference: SEC-INC-2026-011 Date of Incident: 18 June 2026
+Date of Report: 22 June 2026 Classification: Internal — Restricted
+1. Summary
+On 18 June 2026 at approximately 14:20, the Security Operations Centre detected
+anomalous login activity on a Company email account associated with the Finance
+Department, consistent with a successful phishing attack. This report summarises
+the incident, the Company's response, and remedial actions taken.
+2. Incident Timeline
+• 14:20 — Automated alert triggered for login to the affected account from an
+unrecognised IP address located outside the Company's normal operating
+regions.
+• 14:35 — Security Operations Centre analyst confirmed the login as
+unauthorised and initiated the Incident Response Procedure, immediately
+disabling the affected account.
+• 14:50 — Password reset forced on the affected account and multi-factor
+authentication re-enrolment required.
+• 15:30 — Review of account activity logs confirmed the attacker had accessed
+the mailbox for approximately fifteen minutes but found no evidence of data
+exfiltration or forwarding rule creation.
+• 16:15 — Affected employee and their line manager notified; mandatory
+phishing awareness refresher scheduled.
+3. Root Cause
+3.1 Investigation determined the employee had clicked a link in a phishing email
+disguised as an internal IT password expiry notice, entering their credentials on a
+fraudulent login page. The phishing email had bypassed the Company's email
+filtering system due to the use of a newly registered, previously unflagged domain.
+4. Impact Assessment
+4.1 No evidence was found of unauthorised data access, exfiltration, or lateral
+movement to other systems. The incident is classified as Low Impact under the
+1
+
+Company's Incident Severity Matrix, given the limited access window and absence
+of confirmed data compromise.
+5. Remedial Actions
+5.1 The phishing domain has been added to the Company's email security block list.
+5.2 A Company-wide phishing simulation exercise has been scheduled for July 2026
+to assess and reinforce employee awareness.
+5.3 The Information Security team has recommended reducing the multi-factor
+authentication grace period for high-risk account categories, including Finance
+Department accounts, from 30 days to 7 days.
+6. Reporting Obligations
+6.1 As no personal data was confirmed to be accessed or exfiltrated, this incident
+does not meet the threshold for mandatory notification to the supervisory authority
+under the Data Protection and Privacy Policy (EN-POL-04). This assessment will be
+revisited if further evidence emerges.
+7. Approval
+Reviewed and approved by the Head of Information Security on 22 June 2026.
+2

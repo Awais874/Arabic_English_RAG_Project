@@ -1,0 +1,49 @@
+Forklift Operator Training Manual
+Document ID: EN-MAN-03 Department: Health, Safety and Environment
+Version: 1.8 Effective Date: 1 May 2026
+1. Purpose
+This manual sets out the mandatory training curriculum and competency
+requirements for employees seeking authorisation to operate powered industrial
+trucks (forklifts) at any Meridian Holdings Group site.
+2. Prerequisites
+2.1 Candidates must be at least eighteen years of age, hold a valid Company
+employee ID, and have completed the general Warehouse Health and Safety
+Induction before beginning forklift-specific training.
+2.2 Candidates must pass a basic vision and physical fitness assessment
+administered by an approved occupational health provider.
+3. Training Structure
+3.1 Training consists of three stages: theoretical instruction (one full day),
+supervised practical operation (minimum sixteen hours across five working days),
+and a final competency assessment.
+3.2 Theoretical instruction covers: forklift stability principles and the load centre
+concept, pre-operation inspection checklists, site-specific traffic rules, and relevant
+sections of the Workplace Health and Safety Manual (EN-MAN-01).
+4. Pre-Operation Checks
+4.1 Before each shift, operators must complete the Daily Forklift Inspection
+Checklist (Form HSE-FORM-05), covering tyre condition, hydraulic fluid levels,
+warning lights and horn function, seatbelt condition, and visible damage to the
+mast or forks.
+4.2 Any defect identified during pre-operation checks must be reported
+immediately to the Warehouse Supervisor, and the vehicle must be tagged out of
+service until repaired.
+1
+
+5. Load Handling Principles
+5.1 Operators must never exceed the rated load capacity indicated on the vehicle's
+data plate, and must account for reduced capacity when lifting loads at height.
+5.2 Loads must be fully engaged on the forks and tilted back slightly for travel,
+with the forks kept as low as practicable — typically no more than 15 cm above
+ground level — while moving.
+6. Assessment and Certification
+6.1 Candidates must achieve a minimum score of 80% on the written theoretical
+assessment and a satisfactory rating on all items of the practical assessment
+checklist to be certified.
+6.2 Certification is valid for three years, after which a refresher course and
+reassessment are required. Certification may be suspended immediately following
+any safety incident pending investigation.
+7. Related Documents
+• Workplace Health and Safety Manual (EN-MAN-01)
+• Daily Forklift Inspection Checklist (HSE-FORM-05)
+8. Approval
+Approved by the Head of Health, Safety and Environment on 15 April 2026.
+2

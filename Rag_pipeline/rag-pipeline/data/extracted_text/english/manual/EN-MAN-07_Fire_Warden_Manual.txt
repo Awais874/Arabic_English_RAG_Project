@@ -1,0 +1,46 @@
+Fire Warden Procedures Manual
+Document ID: EN-MAN-07 Department: Health, Safety and Environment
+Version: 1.5 Effective Date: 1 April 2026
+1. Purpose
+This manual sets out the responsibilities and procedures for employees appointed
+as Fire Wardens at Meridian Holdings Group sites, in support of the Company's fire
+safety obligations.
+2. Appointment and Training
+2.1 A minimum of one Fire Warden must be appointed for every fifty employees on-
+site per shift, with additional wardens appointed for larger or multi-floor sites.
+2.2 Fire Wardens must complete initial Fire Warden training (half-day, covering fire
+behaviour, extinguisher use, and evacuation procedures) and a refresher course
+annually.
+3. Routine Duties
+3.1 Fire Wardens must conduct a monthly visual inspection of fire extinguishers,
+emergency lighting, and fire exit routes in their designated zone, recording
+findings on the Fire Safety Inspection Checklist (HSE-FORM-08).
+3.2 Any obstruction of a fire exit, fire door, or extinguisher location identified
+during routine duties or otherwise must be reported to the site HSE Officer and
+rectified immediately.
+4. Actions on Alarm Activation
+4.1 On hearing the fire alarm, Fire Wardens must immediately begin a sweep of
+their designated zone, directing occupants to the nearest available fire exit and
+checking rooms, including restrooms, for remaining occupants.
+4.2 Fire Wardens must not re-enter the building for any reason once evacuation is
+complete, and must report to the Fire Warden Coordinator at the assembly point to
+confirm their zone is clear.
+1
+
+5. Assembly Point Management
+5.1 The Fire Warden Coordinator maintains a roll call of all employees expected on-
+site, cross-referenced against building access logs, to confirm all persons are
+accounted for at the assembly point.
+5.2 If a person is reported missing, the Fire Warden Coordinator must immediately
+inform the attending fire service and must not permit any employee to re-enter the
+building to search for them.
+6. Fire Drills
+6.1 Fire drills are conducted quarterly at each site, coordinated by the Fire Warden
+Coordinator, with results and evacuation timing recorded and reported to the Head
+of Health, Safety and Environment.
+7. Related Documents
+• Workplace Health and Safety Manual (EN-MAN-01)
+• Fire Safety Inspection Checklist (HSE-FORM-08)
+8. Approval
+Approved by the Head of Health, Safety and Environment on 15 March 2026.
+2

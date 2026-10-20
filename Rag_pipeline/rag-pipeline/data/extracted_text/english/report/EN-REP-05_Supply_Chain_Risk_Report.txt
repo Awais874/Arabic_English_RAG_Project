@@ -1,0 +1,50 @@
+Supply Chain Risk Assessment Report — Q2
+2026
+Document ID: EN-REP-05 Department: Supply Chain and Logistics /
+Procurement Reporting Period: Q2 2026 Prepared By: Supply Chain Risk Team
+Distribution: Internal — Executive Committee
+1. Executive Summary
+This report presents the quarterly risk assessment of Meridian Holdings Group's
+key supplier relationships and logistics routes. Two suppliers were downgraded to
+"Elevated Risk" status during Q2 2026 due to financial stability concerns, and one
+logistics route experienced significant disruption due to port congestion. No supply
+interruptions affecting customer fulfilment occurred during the quarter.
+2. Supplier Risk Ratings
+2.1 Of the Company's 45 Tier 1 suppliers, 38 are rated Low Risk, 5 are rated
+Elevated Risk, and 2 are rated High Risk as of the end of Q2 2026, based on the
+Supplier Risk Scoring Methodology covering financial stability, geographic
+concentration, single-source dependency, and historical delivery performance.
+2.2 Two suppliers of packaging materials were downgraded from Low Risk to
+Elevated Risk following a review of their published financial statements, which
+indicated declining liquidity ratios. Both suppliers have been placed on enhanced
+monitoring, with monthly financial health checks scheduled through Q3 2026.
+3. Logistics Route Disruption
+3.1 The primary shipping route used for goods sourced from South and East Asian
+suppliers experienced significant congestion at the transhipment port during May
+2026, resulting in average delays of nine days for affected shipments.
+3.2 The Procurement Department activated the contingency plan for affected
+orders, temporarily rerouting time-sensitive shipments through an alternative port
+at an estimated additional cost of £42,000 for the quarter, avoiding disruption to
+customer order fulfilment.
+1
+
+4. Single-Source Dependencies
+4.1 The risk assessment identified three critical components sourced from a single
+supplier with no qualified alternative currently on file. The Procurement
+Department has been tasked with qualifying at least one alternative supplier for
+each of these components by the end of Q3 2026.
+5. Geographic Concentration
+5.1 62% of Tier 1 suppliers by spend are concentrated in a single geographic
+region, representing a continuing structural risk that the Executive Committee has
+previously flagged for medium-term diversification, in line with the Company's
+2025-2027 Supply Chain Resilience Strategy.
+6. Recommendations
+6.1 Accelerate supplier diversification for the three single-source components
+identified in Section 4, prioritising by revenue impact.
+6.2 Maintain enhanced monitoring of the two Elevated Risk suppliers identified in
+Section 2.2 and prepare contingency sourcing options should either supplier's
+rating deteriorate further.
+7. Approval
+Submitted to the Executive Committee by the Head of Supply Chain and Logistics
+on 12 July 2026.
+2
